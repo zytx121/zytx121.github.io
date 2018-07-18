@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenwei Zhang"
+title                    : "  Wenwei Zhang"
 title_separator          : "-"
 name                     : &name "Wenwei Zhang"
 description              : &description "Undergraduate Student at Wuhan University"
@@ -97,8 +97,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/wenweizhang-b9769a124/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "wenweizhang-b9769a124/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
