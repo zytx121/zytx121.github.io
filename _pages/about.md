@@ -18,4 +18,4 @@ I go to York University, Toronto for summer research internship. (2nd June 2018)
 
 Contact
 ------------------------
-Personal Email: [wayne[dot]zw[at]outlook[dot]com](wayne.zw@outlook.com)
+Personal Email: [wayne[dot]zw[at]outlook[dot]com](mailto:wayne.zw@outlook.com)
