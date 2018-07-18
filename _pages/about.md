@@ -11,13 +11,11 @@ redirect_from:
 I am currently a undergraduate student of [Computer Science School, Wuhan University](http://cs.whu.edu.cn/). I was a research intern of [SenseTime](https://www.sensetime.com/). And now I am a summer research intern at [iNCML Lab, York University](https://wiki.eecs.yorku.ca/lab/MLL/start), supervised by Professor [Hui Jiang](https://wiki.eecs.yorku.ca/user/hj/). You can find my CV [here](/files/resume.pdf).
 
 Recent News
-========
 ------------------------
 Our paper is accepted by [ACMMM 2018](http://www.acmmm.org/2018/)! (30th June 2018)
 
 I go to York University, Toronto for summer research internship. (2nd June 2018)
 
 Contact
-========
 ------------------------
 Personal Email: [wayne[dot]zw[at]outlook[dot]com](wayne.zw@outlook.com)

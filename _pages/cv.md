@@ -10,12 +10,10 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
 ----------------
 * B.S. in Wuhan, China, Wuhan University, 2019(expected).
 
 Work experience
-======
 ----------------
 * Spring 2018: Research Intern at [Sensetime](https://www.sensetime.com/)
   * Research filed included: Lane Segmentation, Scene Recovery Algorithm, Panorama Stitching. 
@@ -26,14 +24,12 @@ Work experience
   * Supervisor: Professor [Hui Jiang](https://wiki.eecs.yorku.ca/user/hj/)
   
 Skills
-======
 ----------------
 * Program Language: Python, matlab, C++, Java.
 * Deep Learning Framework: Pytorch, Torch, Caffe.
 * English Skills: IELTS 6.5, TOEFL 91, GRE 321+3.
 
 Publications
-======
 ---------------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
