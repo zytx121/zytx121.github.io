@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "  Wenwei Zhang"
+title                    : "Wenwei Zhang"
 title_separator          : "-"
 name                     : &name "Wenwei Zhang"
 description              : &description "Undergraduate Student at Wuhan University"
