@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student at [Computer Science School, Wuhan University](http://cs.whu.edu.cn/). I am also a research intern at [SenseTime](https://www.sensetime.com/) now, focusing on computer vision tasks in autonomous driving. And I just finished my summer research at [iNCML Lab, York University](https://wiki.eecs.yorku.ca/lab/MLL/start), supervised by Professor [Hui Jiang](https://wiki.eecs.yorku.ca/user/hj/). You can find my CV [here](/files/resume.pdf).
+I am currently a final year undergraduate student at [Computer Science School, Wuhan University](http://cs.whu.edu.cn/). I am also a research intern at [SenseTime](https://www.sensetime.com/) now, focusing on computer vision tasks in autonomous driving. And I just finished my summer research at [iNCML Lab, York University](https://wiki.eecs.yorku.ca/lab/MLL/start), supervised by Professor [Hui Jiang](https://wiki.eecs.yorku.ca/user/hj/). You can find my CV [here](/files/resume.pdf).
 
 Recent News
 ------------------------
+I am going to [Nanyang Technological University](http://ntu.edu.sg/) as a Ph.D. candidate, supervised by Professor [Chen Change (Cavan) Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).
+
 I go back to [SenseTime](https://www.sensetime.com/) as a research intern. (November 2018)
 
 Our paper is accepted by [ACMMM 2018](http://www.acmmm.org/2018/)! (30th June 2018)
