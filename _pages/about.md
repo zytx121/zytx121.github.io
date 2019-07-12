@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final year undergraduate student at [Computer Science School, Wuhan University](http://cs.whu.edu.cn/). I am also a research intern at [SenseTime](https://www.sensetime.com/) now, focusing on computer vision tasks in autonomous driving. And I just finished my summer research at [iNCML Lab, York University](https://wiki.eecs.yorku.ca/lab/MLL/start), supervised by Professor [Hui Jiang](https://wiki.eecs.yorku.ca/user/hj/). You can find my CV [here](/files/resume.pdf).
+Wenwei Zhang is a first year Ph.D. student at the [School of Computer Science and Engineering](http://scse.ntu.edu.sg/Pages/Home.aspx), Nanyang Technological University, Singapore. supervised by Professor [Chen Change (Cavan) Loy](http://personal.ie.cuhk.edu.hk/~ccloy/). 
+He received his bachelor degree at the [Computer Science School](http://cs.whu.edu.cn/), Wuhan University. 
+He has been a research intern at [SenseTime](https://www.sensetime.com/), working closely with [Jianping Shi](http://shijianping.me/) and [Zhe Wang](https://wang-zhe.me/), focusing on computer vision tasks in autonomous driving. You can find his CV [here](/files/resume.pdf).
 
 Recent News
 ------------------------
-I am going to [Nanyang Technological University](http://ntu.edu.sg/) as a Ph.D. candidate, supervised by Professor [Chen Change (Cavan) Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).
+New start at NTU! (July 2019)
 
-I go back to [SenseTime](https://www.sensetime.com/) as a research intern. (November 2018)
+I go back to SenseTime as a research intern. (November 2018)
 
-Our paper is accepted by [ACMMM 2018](http://www.acmmm.org/2018/)! (30th June 2018)
+Our paper is accepted by ACMMM 2018! (30th June 2018)
+
 
 Contact
 ------------------------

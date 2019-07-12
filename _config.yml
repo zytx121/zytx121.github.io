@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenwei Zhang"
 title_separator          : "-"
 name                     : &name "Wenwei Zhang"
-description              : &description "Undergraduate Student at Wuhan University"
+description              : &description "Graduate Student at Nanyang Technological University"
 url                      : https://zwwwayne.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zwwwayne.github.io"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Wenwei Zhang"
   avatar           : "profile-mine.png"
-  bio              : "Undergraduate Student at Wuhan University"
-  location         : "Shenzhen, Guangdong, China"
+  bio              : "Graduate Student at NTU"
+  location         : "48 Nanyang Crescent, SG"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN"
   email            :
   uri              :
   bitbucket        :
