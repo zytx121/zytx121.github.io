@@ -14,12 +14,13 @@ He has been a research intern at [SenseTime](https://www.sensetime.com/), workin
 
 Recent News
 ------------------------
+One paper is accepted by ICCV 2019. (July 2019)
+
 New start at NTU! (July 2019)
 
 I go back to SenseTime as a research intern. (November 2018)
 
-Our paper is accepted by ACMMM 2018! (30th June 2018)
-
+Our paper is accepted by ACMMM 2018. (30th June 2018)
 
 Contact
 ------------------------
