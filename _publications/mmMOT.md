@@ -6,9 +6,9 @@ conf: 'International Conference on Computer Vision'
 conf_shortname: 'ICCV'
 year: 2019
 author: <strong>Wenwei Zhang</strong>, Hui Zhou, Shuyang Sun, Zhe Wang, Jianping Shi, Chen Change Loy
-codeurl: /publication/mmMOT
-paperurl: /publication/mmMOT
-projecturl: /publication/mmMOT
+codeurl: https://github.com/ZwwWayne/mmMOT
+paperurl: https://arxiv.org/abs/1909.03850
+projecturl: https://github.com/ZwwWayne/mmMOT
 additional: true
 
 # venue: 'Journal 1'
