@@ -9,6 +9,7 @@ author: <strong>Wenwei Zhang</strong>, Hui Zhou, Shuyang Sun, Zhe Wang, Jianping
 codeurl: https://github.com/ZwwWayne/mmMOT
 paperurl: https://arxiv.org/abs/1909.03850
 projecturl: https://github.com/ZwwWayne/mmMOT
+posterlink: /files/mmMOT_poster_final.pdf
 additional: true
 
 # venue: 'Journal 1'
