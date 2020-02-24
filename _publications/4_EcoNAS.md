@@ -2,8 +2,8 @@
 title: "EcoNAS: Finding Proxies for Economical Neural Architecture Search"
 collection: publications
 permalink: /publication/EcoNAS
-conf: 'Technical report, arXiv:2001.01233'
-# conf_shortname: 'ICCV'
+conf: 'IEEE Conference on Computer Vision and Pattern Recognition'
+conf_shortname: 'CVPR'
 year: 2020
 author: Dongzhan Zhou, Xinchi Zhou, <strong>Wenwei Zhang</strong>, Chen Change Loy, Shuai Yi, Xuesen Zhang, Wanli Ouyang
 # codeurl: https://github.com/ZwwWayne/mmMOT
