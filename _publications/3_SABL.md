@@ -2,11 +2,11 @@
 title: "Side-Aware Boundary Localization for More Precise Object Detection"
 collection: publications
 permalink: /publication/SABL
-conf: 'Technical report, arXiv:1912.04260'
-# conf_shortname: 'ICCV'
-year: 2019
+conf: 'European Conference on Computer Vision'
+conf_shortname: 'ECCV'
+year: 2020
 author: Jiaqi Wang, <strong>Wenwei Zhang</strong>, Yuhang Cao, Kai Chen, Jiangmiao Pang, Tao Gong, Jianping Shi, Chen Change Loy, Dahua Lin
-# codeurl: https://github.com/ZwwWayne/mmMOT
+codeurl: https://github.com/open-mmlab/mmdetection
 paperurl: https://arxiv.org/abs/1912.04260
 # projecturl: https://github.com/ZwwWayne/mmMOT
 # posterlink: /files/mmMOT_poster_final.pdf
