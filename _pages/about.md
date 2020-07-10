@@ -14,7 +14,12 @@ Before that, he received his bachelor degree at the [Computer Science School](ht
 You can find his CV [here](/files/resume.pdf). 
 
 Recent News
+
 ------------------------
+We release [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), OpenMMLab's next-generation platform for general 3D object detection.
+
+One paper is accepted by ECCV2020(spotlight).
+
 One paper is accepted by CVPR 2020. (Feb. 2020)
 
 Win the <font color="Tomato"><strong>1st prize</strong></font> in [COCO 2019 Object Detection Challenge](http://cocodataset.org/workshop/coco-mapillary-iccv-2019.html) (no external data). (Team: MMDet)
@@ -24,5 +29,6 @@ One paper is accepted by ICCV 2019. (July 2019)
 Join the NTU MMLab. (July 2019)
 
 Academic Service
+
 ------------------------
-Conference Reviewer: CVPR 2020, ECCV 2020
+Conference Reviewer: CVPR 2020, ECCV 2020, ACM MM2020.
