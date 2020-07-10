@@ -14,7 +14,6 @@ Before that, he received his bachelor degree at the [Computer Science School](ht
 You can find his CV [here](/files/resume.pdf). 
 
 Recent News
-
 ------------------------
 We release [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), OpenMMLab's next-generation platform for general 3D object detection. (July, 2020)
 
@@ -27,6 +26,5 @@ Win the <font color="Tomato"><strong>1st prize</strong></font> in [COCO 2019 Obj
 One paper is accepted by ICCV 2019. (July 2019)
 
 Academic Service
-
 ------------------------
 Conference Reviewer: CVPR 2020, ECCV 2020, ACM MM2020.
