@@ -15,6 +15,8 @@ You can find his CV [here](/files/resume.pdf).
 
 Recent News
 ------------------------
+Third place in [LVIS2020 Challenge](https://www.lvisdataset.org/challenge_2020). Technical report can be found [in arxiv](https://arxiv.org/abs/2008.10032) and [here](https://www.lvisdataset.org/assets/challenge_reports/2020/MMDet.pdf).
+
 We release [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), OpenMMLab's next-generation platform for general 3D object detection. (July, 2020)
 
 One paper is accepted by ECCV2020(spotlight). (July, 2020)
