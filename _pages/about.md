@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Wenwei Zhang is a first year Ph.D. student at the [School of Computer Science and Engineering](http://scse.ntu.edu.sg/Pages/Home.aspx), Nanyang Technological University, Singapore, supervised by Professor [Chen Change (Cavan) Loy](http://personal.ie.cuhk.edu.hk/~ccloy/). 
-He also works closely with [Kai Chen](http://chenkai.site/), [Jianping Shi](http://shijianping.me/), focusing on object recognition and scene understanding tasks.
+He also works closely with [Kai Chen](http://chenkai.site/) and [Jianping Shi](http://shijianping.me/), focusing on object recognition and scene understanding tasks.
 Before that, he received his bachelor degree at the [Computer Science School](http://cs.whu.edu.cn/), Wuhan University. 
 You can find his CV [here](/files/resume.pdf).
 
