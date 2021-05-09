@@ -6,7 +6,7 @@ conf: 'European Conference on Computer Vision'
 conf_shortname: 'ECCV'
 year: '2020 (spotlight)'
 author: Jiaqi Wang, <strong>Wenwei Zhang</strong>, Yuhang Cao, Kai Chen, Jiangmiao Pang, Tao Gong, Jianping Shi, Chen Change Loy, Dahua Lin
-codeurl: https://github.com/open-mmlab/mmdetection
+codeurl: https://github.com/open-mmlab/mmdetection/tree/master/configs/sabl
 paperurl: https://arxiv.org/abs/1912.04260
 # projecturl: https://github.com/ZwwWayne/mmMOT
 # posterlink: /files/mmMOT_poster_final.pdf
