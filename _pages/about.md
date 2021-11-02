@@ -16,10 +16,12 @@ You can find his CV [here](/files/resume.pdf).
 Recent News
 ------------------------
 
+[K-Net](https://www.mmlab-ntu.com/project/knet/index.html) is accepted by NeurIPS 2021. Code has been released at [here](https://github.com/ZwwWayne/K-Net). (Oct., 2021)
+
 One paper is accepted by CVPR 2021. (Feb., 2021)
 
 MMDet3D team obtains Best PKL Award and best vision-only results in the 3rd nuScenes detection challenge of 5th AI Driving Olympics, NeurIPS 2020.
-Paper of our multi-modality method is released in [arxiv](https://arxiv.org/abs/2012.12741) (Dec., 2020).
+Paper of our multi-modality method is released in [arxiv](https://arxiv.org/abs/2012.12741). (Dec., 2020)
 
 Third place in [LVIS2020 Challenge](https://www.lvisdataset.org/challenge_2020). Paper can be found [in arxiv](https://arxiv.org/abs/2008.10032) and [here](https://www.lvisdataset.org/assets/challenge_reports/2020/MMDet.pdf).
 
@@ -33,4 +35,4 @@ Win the <font color="Tomato"><strong>1st prize</strong></font> in [COCO 2019 Obj
 
 Academic Service
 ------------------------
-Conference Reviewer: ICCV2021, CVPR 2021, CVPR 2020, ECCV 2020, ACM MM2020.
+Conference Reviewer: ICLR2022, ICCV2021, CVPR2020-2022, ECCV2020, ACM MM2020.
