@@ -2,13 +2,13 @@
 title: "K-Net: Towards Unified Image Segmentation"
 collection: publications
 permalink: /publication/knet
-conf: 'arXiv:2106.14855'
-# conf_shortname: 'NeurIPS'
+conf: 'Advances in Neural Information Processing Systems'
+conf_shortname: 'NeurIPS'
 year: '2021'
 author: <strong>Wenwei Zhang</strong>, Jiangmiao Pang, Kai Chen, Chen Change Loy
-# codeurl: https://github.com/open-mmlab/mmdetection/tree/master/configs/seesaw_loss
+codeurl: https://github.com/ZwwWayne/K-Net
 paperurl: https://arxiv.org/abs/2106.14855
-# projecturl: https://github.com/ZwwWayne/mmMOT
+projecturl: https://www.mmlab-ntu.com/project/knet/index.html
 # posterlink: /files/mmMOT_poster_final.pdf
 additional: true
 highlight: 'New state of the art on COCO Panoptic Segmentation and ADE20K Semantic Segmentation datasets.'
