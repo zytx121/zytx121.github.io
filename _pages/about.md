@@ -13,8 +13,12 @@ He also works closely with [Jiangmiao Pang](https://oceanpang.github.io/) and [K
 Before that, he received his bachelor degree at the [Computer Science School](http://cs.whu.edu.cn/), Wuhan University.
 You can find his CV [here](/files/resume.pdf).
 
+He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and have been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since July 2020 and Jan. 2020, respectively. He has also led the development of [MMCV](https://github.com/open-mmlab/mmcv) in Aug. 2021 to Feb. 2022.
+
 Recent News
 ------------------------
+
+[Video K-Net](https://arxiv.org/abs/2204.04656) is accepted by CVPR 2022 (oral). (May., 2022)
 
 [K-Net](https://www.mmlab-ntu.com/project/knet/index.html) is accepted by NeurIPS 2021. Code has been released at [here](https://github.com/ZwwWayne/K-Net). (Oct., 2021)
 
@@ -35,4 +39,6 @@ Win the <font color="Tomato"><strong>1st prize</strong></font> in [COCO 2019 Obj
 
 Academic Service
 ------------------------
-Conference Reviewer: ICLR2022, ICCV2021, CVPR2020-2022, ECCV2020, ACM MM2020.
+
+Conference Reviewer: NeurIPS2021-2022, ECCV2020-2022, CVPR2020-2022, ICLR2022, ICCV2021, ACM MM2020.
+Committee member and speaker of OpenMMLab Tutorials in CVPR [2021](https://openmmlab.com/community/cvpr2021-tutorial)/[2022](https://openmmlab.com/community/cvpr2022-tutorial)
