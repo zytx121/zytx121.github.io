@@ -19,20 +19,20 @@ He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3
 Recent News
 ------------------------
 
-[Video K-Net](https://arxiv.org/abs/2204.04656) is accepted by CVPR 2022 (oral). (May., 2022)
+[Video K-Net](https://arxiv.org/abs/2204.04656) is accepted by CVPR 2022 (<font color="Tomato"><strong>oral</strong></font>). (May., 2022)
 
 [K-Net](https://www.mmlab-ntu.com/project/knet/index.html) is accepted by NeurIPS 2021. Code has been released at [here](https://github.com/ZwwWayne/K-Net). (Oct., 2021)
 
 One paper is accepted by CVPR 2021. (Feb., 2021)
 
-MMDet3D team obtains Best PKL Award and best vision-only results in the 3rd nuScenes detection challenge of 5th AI Driving Olympics, NeurIPS 2020.
+MMDet3D team obtains <font color="Tomato"><strong>Best PKL Award</strong></font> and best vision-only results in the 3rd nuScenes detection challenge of 5th AI Driving Olympics, NeurIPS 2020.
 Paper of our multi-modality method is released in [arxiv](https://arxiv.org/abs/2012.12741). (Dec., 2020)
 
 Third place in [LVIS2020 Challenge](https://www.lvisdataset.org/challenge_2020). Paper can be found [in arxiv](https://arxiv.org/abs/2008.10032) and [here](https://www.lvisdataset.org/assets/challenge_reports/2020/MMDet.pdf).
 
 We release [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), OpenMMLab's next-generation platform for general 3D object detection. (July, 2020)
 
-One paper is accepted by ECCV 2020 (spotlight). (July, 2020)
+One paper is accepted by ECCV 2020 (<font color="Tomato"><strong>spotlight</strong></font>). (July, 2020)
 
 One paper is accepted by CVPR 2020. (Feb., 2020)
 
