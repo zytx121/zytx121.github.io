@@ -14,7 +14,7 @@ Before that, he received his bachelor degree at the [Computer Science School](ht
 You can find his CV [here](/files/resume.pdf).
 
 He has been a core maintainer of [OpenMMLab projects](https://openmmlab.com/) since Oct. 2019.
-He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and have been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since July 2020 and Jan. 2020, respectively. He has also led the development of [MMCV](https://github.com/open-mmlab/mmcv) in Aug. 2021 to Feb. 2022.
+He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and has been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since July 2020 and Jan. 2020, respectively. He has also led the development of [MMCV](https://github.com/open-mmlab/mmcv) in Aug. 2021 to Feb. 2022.
 
 Recent News
 ------------------------
