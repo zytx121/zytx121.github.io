@@ -13,6 +13,7 @@ He also works closely with [Jiangmiao Pang](https://oceanpang.github.io/) and [K
 Before that, he received his bachelor degree at the [Computer Science School](http://cs.whu.edu.cn/), Wuhan University.
 You can find his CV [here](/files/resume.pdf).
 
+He has been a core maintainer of [OpenMMLab projects](https://openmmlab.com/) since Oct. 2019.
 He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and have been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since July 2020 and Jan. 2020, respectively. He has also led the development of [MMCV](https://github.com/open-mmlab/mmcv) in Aug. 2021 to Feb. 2022.
 
 Recent News
@@ -41,4 +42,5 @@ Academic Service
 ------------------------
 
 Conference Reviewer: NeurIPS2021-2022, ECCV2020-2022, CVPR2020-2022, ICLR2022, ICCV2021, ACM MM2020.
+
 Committee member and speaker of OpenMMLab Tutorials in CVPR [2021](https://openmmlab.com/community/cvpr2021-tutorial)/[2022](https://openmmlab.com/community/cvpr2022-tutorial)

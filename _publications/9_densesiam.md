@@ -10,7 +10,7 @@ author: <strong>Wenwei Zhang</strong>, Jiangmiao Pang, Kai Chen, Chen Change Loy
 paperurl: https://arxiv.org/abs/2203.11075
 # projecturl: https://github.com/lxtGH/Video-K-Net
 # posterlink: /files/mmMOT_poster_final.pdf
-# additional: true
+additional: true
 # highlight: 'New state of the art on COCO Panoptic Segmentation and ADE20K Semantic Segmentation datasets.'
 
 # venue: 'Journal 1'
