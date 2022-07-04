@@ -2,11 +2,11 @@
 title: "Dense Siamese Network"
 collection: publications
 permalink: /publication/densesiam
-conf: 'arXiv:2203.11075'
-# conf_shortname: 'arXiv:2203.11075'
+conf: 'European Conference on Computer Vision'
+conf_shortname: 'ECCV'
 year: '2022'
 author: <strong>Wenwei Zhang</strong>, Jiangmiao Pang, Kai Chen, Chen Change Loy
-# codeurl: https://github.com/lxtGH/Video-K-Net
+# codeurl: https://github.com/ZwwWayne/DenseSiam
 paperurl: https://arxiv.org/abs/2203.11075
 # projecturl: https://github.com/lxtGH/Video-K-Net
 # posterlink: /files/mmMOT_poster_final.pdf
