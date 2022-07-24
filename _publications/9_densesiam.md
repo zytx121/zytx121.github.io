@@ -6,9 +6,9 @@ conf: 'European Conference on Computer Vision'
 conf_shortname: 'ECCV'
 year: '2022'
 author: <strong>Wenwei Zhang</strong>, Jiangmiao Pang, Kai Chen, Chen Change Loy
-# codeurl: https://github.com/ZwwWayne/DenseSiam
+codeurl: https://github.com/ZwwWayne/DenseSiam
 paperurl: https://arxiv.org/abs/2203.11075
-# projecturl: https://github.com/lxtGH/Video-K-Net
+projecturl: https://www.mmlab-ntu.com/project/densesiam/index.html
 # posterlink: /files/mmMOT_poster_final.pdf
 additional: true
 # highlight: 'New state of the art on COCO Panoptic Segmentation and ADE20K Semantic Segmentation datasets.'

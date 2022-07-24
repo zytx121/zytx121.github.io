@@ -11,7 +11,7 @@ paperurl: https://arxiv.org/abs/2204.04656
 projecturl: https://github.com/lxtGH/Video-K-Net
 # posterlink: /files/mmMOT_poster_final.pdf
 additional: true
-highlight: 'New state of the art on COCO Panoptic Segmentation and ADE20K Semantic Segmentation datasets.'
+# highlight: 'New state of the art on COCO Panoptic Segmentation and ADE20K Semantic Segmentation datasets.'
 
 # venue: 'Journal 1'
 # paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
