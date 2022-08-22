@@ -13,11 +13,15 @@ He also works closely with [Jiangmiao Pang](https://oceanpang.github.io/) and [K
 Before that, he received his bachelor degree at the [Computer Science School](http://cs.whu.edu.cn/), Wuhan University.
 You can find his CV [here](/files/resume.pdf).
 
+His main works lie in *Unified Framework for X*, which include [unified image](https://www.mmlab-ntu.com/project/knet/index.html), [video](https://github.com/lxtGH/Video-K-Net), and point segmentation, [Dense Unsupervised Learning](https://www.mmlab-ntu.com/project/densesiam/index.html), and [robust multi-modality multi-object tracking](https://github.com/ZwwWayne/mmMOT).
+
 He has been a core maintainer of [OpenMMLab projects](https://openmmlab.com/) since Oct. 2019.
 He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and has been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since July 2020 and Jan. 2020, respectively. He has also led the development of [MMCV](https://github.com/open-mmlab/mmcv) since Aug. 2021 to Feb. 2022.
 
 Recent News
 ------------------------
+
+[DenseSiam](https://arxiv.org/abs/2203.11075) is accepted by ECCV 2022. (Jul., 2022)
 
 [Video K-Net](https://arxiv.org/abs/2204.04656) is accepted by CVPR 2022 (<font color="Tomato"><strong>oral</strong></font>). (May., 2022)
 

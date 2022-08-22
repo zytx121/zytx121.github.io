@@ -1,5 +1,5 @@
 ---
-title: "Dense Siamese Network"
+title: "Dense Siamese Network for Dense Unsupervised Learning"
 collection: publications
 permalink: /publication/densesiam
 conf: 'European Conference on Computer Vision'
