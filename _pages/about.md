@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Wenwei Zhang is a third year Ph.D. student at the [School of Computer Science and Engineering](http://scse.ntu.edu.sg/Pages/Home.aspx), Nanyang Technological University, Singapore. He is a member of [NTU MMLab](https://www.mmlab-ntu.com/), affiliated with the NTU S-Lab, supervised by Professor [Chen Change (Cavan) Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).
+Wenwei Zhang is a final year Ph.D. student at the [School of Computer Science and Engineering](http://scse.ntu.edu.sg/Pages/Home.aspx), Nanyang Technological University, Singapore. He is a member of [NTU MMLab](https://www.mmlab-ntu.com/), affiliated with the NTU S-Lab, supervised by Professor [Chen Change (Cavan) Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).
 He also works closely with [Jiangmiao Pang](https://oceanpang.github.io/) and [Kai Chen](http://chenkai.site/), focusing on object recognition and scene understanding tasks.
 Before that, he received his bachelor degree at the [Computer Science School](http://cs.whu.edu.cn/), Wuhan University.
 You can find his CV [here](/files/resume.pdf).
 
 His main works lie in *Unified Framework for X*, which include [unified image](https://www.mmlab-ntu.com/project/knet/index.html), [video](https://github.com/lxtGH/Video-K-Net), and point segmentation, [Dense Unsupervised Learning](https://www.mmlab-ntu.com/project/densesiam/index.html), and [robust multi-modality multi-object tracking](https://github.com/ZwwWayne/mmMOT).
 
-He has been a core maintainer of [OpenMMLab projects](https://openmmlab.com/) since Oct. 2019.
-He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and has been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since July 2020 and Jan. 2020, respectively. He has also led the development of [MMCV](https://github.com/open-mmlab/mmcv) since Aug. 2021 to Feb. 2022.
+He led the initial release of [MMEngine](https://github.com/open-mmlab/mmengine), the core of [OpenMMLab 2.0](https://openmmlab.com/).
+He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and has been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since July 2020 and Jan. 2020, respectively. He has also led the development of [MMCV](https://github.com/open-mmlab/mmcv) since Aug. 2021 to Feb. 2022. He has been a core maintainer of [OpenMMLab projects](https://openmmlab.com/) since Oct. 2019.
 
 Recent News
 ------------------------
+
+We release [OpenMMLab 2.0](https://openmmlab.com/) with a new core, [MMEngine](https://github.com/open-mmlab/mmengine). (Sept. 2022)
 
 [DenseSiam](https://arxiv.org/abs/2203.11075) is accepted by ECCV 2022. (Jul., 2022)
 
