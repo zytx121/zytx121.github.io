@@ -43,6 +43,6 @@ Win the <font color="Tomato"><strong>1st prize</strong></font> in [COCO 2019 Obj
 Academic Service
 ------------------------
 
-Conference Reviewer: NeurIPS2021-2022, ECCV2020-2022, CVPR2020-2023, ICLR2022-2023, ICCV2021, ACM MM2020.
+Conference Reviewer: CVPR2020-2023, ICCV2021-2023, ECCV2020-2022, ICLR2022-2023, NeurIPS2021-2022, ICML2023, ACM MM2020.
 
-Committee member and speaker of OpenMMLab Tutorials in CVPR [2021](https://openmmlab.com/community/cvpr2021-tutorial)/[2022](https://openmmlab.com/community/cvpr2022-tutorial)
+Committee member and speaker of OpenMMLab Tutorials in CVPR [2021](https://openmmlab.com/community/cvpr2021-tutorial)/[2022](https://openmmlab.com/community/cvpr2022-tutorial), and [AAAI2023](https://openmmlab.com/community/aaai2023-lab)
