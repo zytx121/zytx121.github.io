@@ -21,6 +21,8 @@ He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3
 Recent News
 ------------------------
 
+3 papers are accepted by CVPR2023. (Mar. 2023)
+
 We release [OpenMMLab 2.0](https://openmmlab.com/) with a new core, [MMEngine](https://github.com/open-mmlab/mmengine). (Sept. 2022)
 
 [DenseSiam](https://arxiv.org/abs/2203.11075) is accepted by ECCV 2022. (Jul., 2022)
