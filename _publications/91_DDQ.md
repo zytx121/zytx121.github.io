@@ -8,5 +8,6 @@ year: '2023'
 author: Shilong Zhang*, Wang xinjiang*, Jiaqi Wang, Jiangmiao Pang, Chengqi Lyu, <strong>Wenwei Zhang</strong>, Ping Luo, Kai Chen
 codeurl: https://github.com/jshilong/DDQ
 paperurl: https://arxiv.org/abs/2303.12776
+additional: true
 
 ---
