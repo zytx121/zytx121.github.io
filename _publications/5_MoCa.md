@@ -2,9 +2,9 @@
 title: "Exploring Data Augmentation for Multi-Modality 3D Object Detection"
 collection: publications
 permalink: /publication/MoCa
-conf: 'arXiv:2012.12741'
-# conf_shortname: 'arXiv:2012.12741'
-year: '2020'
+conf: 'International Conference on Learning Representations, Scene Representations For Autonomous Driving Workshop'
+conf_shortname: 'ICLRW'
+year: '2023'
 author: <strong>Wenwei Zhang</strong>, Zhe Wang, Chen Change Loy
 codeurl: https://github.com/open-mmlab/mmdetection3d
 paperurl: https://arxiv.org/abs/2012.12741

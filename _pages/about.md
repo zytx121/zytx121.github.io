@@ -13,7 +13,7 @@ He also works closely with [Jiangmiao Pang](https://oceanpang.github.io/) and [K
 Before that, he received his bachelor degree at the [Computer Science School](http://cs.whu.edu.cn/), Wuhan University.
 You can find his CV [here](/files/resume.pdf).
 
-His main works lie in *Unified Framework for X*, which include [unified image](https://www.mmlab-ntu.com/project/knet/index.html), [video](https://github.com/lxtGH/Video-K-Net), and point segmentation, [Dense Unsupervised Learning](https://www.mmlab-ntu.com/project/densesiam/index.html), and [robust multi-modality multi-object tracking](https://github.com/ZwwWayne/mmMOT).
+His main works lie in *Unified Framework for X*, which include [unified image](https://www.mmlab-ntu.com/project/knet/index.html), [video](https://github.com/lxtGH/Video-K-Net), and [point](https://github.com/SmartBot-PJLab/P3Former) segmentation, [Dense Unsupervised Learning](https://www.mmlab-ntu.com/project/densesiam/index.html), and [robust multi-modality multi-object tracking](https://github.com/ZwwWayne/mmMOT).
 
 He led the initial release of [MMEngine](https://github.com/open-mmlab/mmengine), the core of [OpenMMLab 2.0](https://openmmlab.com/).
 He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and has been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since 2020, respectively. He has been a core maintainer of [OpenMMLab projects](https://openmmlab.com/) since 2019.
