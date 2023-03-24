@@ -21,7 +21,7 @@ He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3
 Recent News
 ------------------------
 
-3 papers are accepted by CVPR2023. (Mar. 2023)
+3 papers ([BARON](https://arxiv.org/abs/2302.13996), [MV-JAR](https://arxiv.org/abs/2303.13510), and [DDQ](https://arxiv.org/abs/2303.12776)) are accepted by CVPR2023. (Mar. 2023)
 
 We release [OpenMMLab 2.0](https://openmmlab.com/) with a new core, [MMEngine](https://github.com/open-mmlab/mmengine). (Sept. 2022)
 
