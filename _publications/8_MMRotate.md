@@ -9,7 +9,7 @@ codeurl: https://github.com/open-mmlab/mmrotate
 paperurl: https://arxiv.org/abs/2204.13317
 # posterlink: /files/mmMOT_poster_final.pdf
 additional: true
-# highlight: 'New state of the art on COCO Panoptic Segmentation and ADE20K Semantic Segmentation datasets.'
+highlight: 'The first unified rotated object detection toolbox and benchmark.'
 
 # venue: 'Journal 1'
 # paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
