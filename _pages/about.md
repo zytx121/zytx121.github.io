@@ -8,16 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Wenwei Zhang is a final year Ph.D. student at the [School of Computer Science and Engineering](http://scse.ntu.edu.sg/Pages/Home.aspx), Nanyang Technological University, Singapore. He is a member of [NTU MMLab](https://www.mmlab-ntu.com/), affiliated with the NTU S-Lab, supervised by Professor [Chen Change (Cavan) Loy](http://personal.ie.cuhk.edu.hk/~ccloy/).
-He also works closely with [Jiangmiao Pang](https://oceanpang.github.io/) and [Kai Chen](http://chenkai.site/), focusing on object recognition and scene understanding tasks.
-Before that, he received his bachelor degree at the [Computer Science School](http://cs.whu.edu.cn/), Wuhan University.
-You can find his CV [here](/files/resume.pdf).
-
-Yue Zhou is now a Ph.D. student in Department of Electronic Engineering, [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn), supervised by Professor [Xue Jiang](https://sp.sjtu.edu.cn/) and Professor Xingzhao Liu. 
+Yue Zhou is now a Ph.D. student in the Department of Electronic Engineering, [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn), supervised by Professor [Xue Jiang](https://sp.sjtu.edu.cn/) and Professor Xingzhao Liu. 
 He also works closely with [Xue Yang](https://yangxue0827.github.io/) and [Tianwen Zhang](https://www.researchgate.net/profile/Tianwen-Zhang-4), focusing on rotated object detection and SAR ship detection tasks.
-Before that, he received his bachelor degree at the Beijing University of Posts and Telecommunications.
+Before that, he received his bachelor degree at the School of Information and Communication, Beijing University of Posts and Telecommunications.
 
-His main works lie in rotated object detection and SAR ship detection. He led the initial release of [MMRotate](https://github.com/open-mmlab/mmrotate) <img src="https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social" />src="https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social" />, and has been leading the development of MMRotate since 2022.
+His main works lie in rotated object detection and SAR ship detection. He led the initial release of [MMRotate](https://github.com/open-mmlab/mmrotate) <img src="https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social" />, and has been leading the development of it since 2022.
 
 Recent News
 ------------------------
@@ -32,7 +27,7 @@ Recent News
 
 11 / 2022: One paper on oriented object detection (PVT-SAR) is accepted by <b>JSTARS</b> (JCR Q2)
 
-10 / 2022: A report on oriented object detection is made at Journal of Radar doctoral forum (2022 雷达学报博士论坛)
+10 / 2022: A report on oriented object detection is made at the Journal of Radar doctoral forum (雷达学报博士论坛)
 
 08 / 2022: One collaborative paper on oriented object detection (SCRDet++) is accepted by <b>TPAMI</b>
 
