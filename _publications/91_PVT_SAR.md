@@ -1,5 +1,5 @@
 ---
-title: "PVT-SAR: An Arbitrarily Oriented SAR Ship Detector With Pyramid Vision Transformer"
+title: "PVT-SAR: An arbitrarily oriented SAR ship detector with pyramid vision transformer"
 collection: publications
 conf: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
 conf_shortname: 'J-STARS'
