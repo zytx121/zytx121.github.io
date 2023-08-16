@@ -22,30 +22,38 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
-3 papers ([BARON](https://arxiv.org/abs/2302.13996), [MV-JAR](https://arxiv.org/abs/2303.13510), and [DDQ](https://arxiv.org/abs/2303.12776)) are accepted by CVPR2023. (Mar. 2023)
+08 / 2023: One paper on model distillation is accepted by <b>GRSL</b> (JCR Q2)
 
-We release [OpenMMLab 2.0](https://openmmlab.com/) with a new core, [MMEngine](https://github.com/open-mmlab/mmengine). (Sept. 2022)
+7 / 2023: A report on adversarial attacks for object detection in remote sensing images is made at IGARSS2023 in Pasadena, CA, USA.
 
-[DenseSiam](https://arxiv.org/abs/2203.11075) is accepted by ECCV 2022. (Jul., 2022)
+06 / 2023: One paper on semi-supervised object detection is accepted by <b>JSTARS</b> (JCR Q2)
 
-[Video K-Net](https://arxiv.org/abs/2204.04656) is accepted by CVPR 2022 (<font color="Tomato"><strong>oral</strong></font>). (May., 2022)
+01 / 2023: One collaborative paper on oriented object detection (H2RBox) is accepted by <b>ICLR 2023</b>
 
-[K-Net](https://www.mmlab-ntu.com/project/knet/index.html) is accepted by NeurIPS 2021. Code has been released at [here](https://github.com/ZwwWayne/K-Net). (Oct., 2021)
+11 / 2022: One paper on oriented object detection (PVT-SAR) is accepted by <b>JSTARS</b> (JCR Q2)
 
-MMDet3D team obtains <font color="Tomato"><strong>Best PKL Award</strong></font> and best vision-only results in the 3rd nuScenes detection challenge of 5th AI Driving Olympics, NeurIPS 2020.
-Paper of our multi-modality method is released in [arxiv](https://arxiv.org/abs/2012.12741). (Dec., 2020)
+10 / 2022: A report on oriented object detection is made at Journal of Radar doctoral forum (2022 雷达学报博士论坛)
 
-Second runner up in [LVIS2020 Challenge](https://www.lvisdataset.org/challenge_2020). Paper can be found [in arxiv](https://arxiv.org/abs/2008.10032).
+08 / 2022: One collaborative paper on oriented object detection (SCRDet++) is accepted by <b>TPAMI</b>
 
-We release [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), OpenMMLab's next-generation platform for general 3D object detection. (July, 2020)
+06 / 2022: MMRotate is accepted by <b>ACM MM 2022</b> as <b>Oral</b>
 
-One paper is accepted by ECCV 2020 (<font color="Tomato"><strong>spotlight</strong></font>). (July, 2020)
+02 / 2022: Research internship at <a href="https://openmmlab.com/" target="_blank">OpenMMLab</a>
 
-Win the <font color="Tomato"><strong>1st prize</strong></font> in [COCO 2019 Object Detection Challenge](http://cocodataset.org/workshop/coco-mapillary-iccv-2019.html) (no external data). (Team: MMDet)
+03 / 2021: One collaborative paper on oriented object detection (DCL) is accepted by <b>CVPR 2021</b>
+
+09 / 2020: Research internship at Intel Asia R&D Center
+
+12 / 2019: I won the 2st place in <a href="https://www.rsaicp.com/" target="_blank">Tianzhi Cup</a> on SAR aircraft detection and recognition track
+
+07 / 2019: Research internship at <a href="https://open.youtu.qq.com/#/open" target="_blank">Tencent YouTu Lab
+
+06 / 2019: I won the 2st place in <a href="https://beta-www.datafountain.cn/competitions/339" target="_blank">TEDA&JD Cup</a> on Automatic driving traffic sign recognition based on virtual simulation environment track
+
 
 Academic Service
 ------------------------
 
-Conference Reviewer: CVPR2020-2023, ICCV2021-2023, ECCV2020-2022, ICLR2022-2023, NeurIPS2021-2022, ICML2023, ACM MM2020.
+Conference Reviewer: NeurIPS2023.
 
-Committee member and speaker of OpenMMLab Tutorials in CVPR [2021](https://openmmlab.com/community/cvpr2021-tutorial)/[2022](https://openmmlab.com/community/cvpr2022-tutorial), and [AAAI2023](https://openmmlab.com/community/aaai2023-lab)
+Journal Reviewer: TCSVT, Remote Sensing, J-STARS.
