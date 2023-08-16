@@ -1,5 +1,5 @@
 ---
-title: "GRD: An Ultra-lightweight SAR Ship Detector based on Global Relationship Distillation"
+title: "GRD: An ultra-lightweight SAR ship detector based on global relationship distillation"
 collection: publications
 conf: 'IEEE Geoscience and Remote Sensing Letters'
 conf_shortname: 'GRSL'
