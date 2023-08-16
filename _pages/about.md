@@ -17,25 +17,25 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
-08 / 2023: One paper on model distillation is accepted by <b>GRSL</b> (JCR Q2)
+08 / 2023: One paper on model distillation (GRD) is accepted by <b>GRSL</b> (JCR Q2)
 
-7 / 2023: A report on adversarial attacks for object detection is made at IGARSS2023 in Pasadena, CA, USA.
+07 / 2023: A report on adversarial attacks for object detection is made at IGARSS'2023 in Pasadena, CA, USA.
 
-06 / 2023: One paper on semi-supervised object detection is accepted by <b>JSTARS</b> (JCR Q2)
+06 / 2023: One paper on semi-supervised object detection (SAR-Teacher) is accepted by <b>JSTARS</b> (JCR Q2)
 
-01 / 2023: One collaborative paper on oriented object detection (H2RBox) is accepted by <b>ICLR 2023</b>
+01 / 2023: One collaborative paper on rotated object detection (H2RBox) is accepted by <b>ICLR 2023</b>
 
-11 / 2022: One paper on oriented object detection (PVT-SAR) is accepted by <b>JSTARS</b> (JCR Q2)
+11 / 2022: One paper on rotated object detection (PVT-SAR) is accepted by <b>JSTARS</b> (JCR Q2)
 
-10 / 2022: A report on oriented object detection is made at the Journal of Radar doctoral forum (雷达学报博士论坛)
+10 / 2022: A report on rotated object detection is made at the Journal of Radar doctoral forum (雷达学报博士论坛)
 
-08 / 2022: One collaborative paper on oriented object detection (SCRDet++) is accepted by <b>TPAMI</b>
+08 / 2022: One collaborative paper on rotated object detection (SCRDet++) is accepted by <b>TPAMI</b>
 
 06 / 2022: MMRotate is accepted by <b>ACM MM 2022</b> as <b>Oral</b>
 
 02 / 2022: Research internship at <a href="https://openmmlab.com/" target="_blank">OpenMMLab</a>
 
-03 / 2021: One collaborative paper on oriented object detection (DCL) is accepted by <b>CVPR 2021</b>
+03 / 2021: One collaborative paper on rotated object detection (DCL) is accepted by <b>CVPR 2021</b>
 
 09 / 2020: Research internship at Intel Asia R&D Center
 
@@ -43,7 +43,7 @@ Recent News
 
 07 / 2019: Research internship at <a href="https://open.youtu.qq.com/#/open" target="_blank">Tencent YouTu Lab
 
-06 / 2019: I won the 2st place in <a href="https://beta-www.datafountain.cn/competitions/339" target="_blank">TEDA&JD Cup</a> on Automatic driving traffic sign recognition based on virtual simulation environment track
+06 / 2019: I won the 2nd place in <a href="https://beta-www.datafountain.cn/competitions/339" target="_blank">TEDA&JD Cup</a> on Automatic driving traffic sign recognition based on virtual simulation environment track
 
 
 Academic Service
