@@ -7,7 +7,7 @@ author: Chengqi Lyu, Wenwei Zhang, Haian Huang, <strong>Yue Zhou</strong>, Yudon
 codeurl: https://github.com/open-mmlab/mmrotate/tree/1.x/configs/rotated_rtmdet
 paperurl: https://arxiv.org/abs/2212.07784
 additional: true
-highlight: 'New state of the art on remote sensing rotated object detection benchmarks.'
+highlight: 'New state of the art on rotated object detection benchmarks.'
 
 # venue: 'Journal 1'
 # paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
