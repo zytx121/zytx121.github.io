@@ -7,13 +7,13 @@
 
 # Site Settings
 locale: "en-US"
-title: "Wenwei Zhang"
+title: "Yue Zhou"
 title_separator: "-"
-name: &name "Wenwei Zhang"
-description: &description "Graduate Student at Nanyang Technological University"
-url: https://zwwwayne.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: &name "Yue Zhou"
+description: &description "Graduate Student at Shanghai Jiao Tong University"
+url: https://zytx121.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "zwwwayne.github.io"
+repository: "zytx121.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -76,13 +76,13 @@ analytics:
 
 # Site Author
 author:
-  name: "Wenwei Zhang"
+  name: "Yue Zhou"
   avatar: "profile-mine.png"
-  bio: "PhD student at NTU"
-  location: "Singapore"
+  bio: "PhD student at SJTU"
+  location: "Shanghai"
   employer:
-  googlescholar: "https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN"
-  email: "wenwei001@ntu.edu.sg"
+  googlescholar: "https://scholar.google.com.hk/citations?hl=zh-CN&user=v-aQ8GsAAAAJ"
+  email: "sjtu_zy@sjtu.edu.cn"
   uri:
   bitbucket:
   codepen:
@@ -90,19 +90,19 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "ZwwWayne"
+  github: "zytx121"
   google_plus:
   keybase:
   instagram:
   lastfm:
-  linkedin: "wenweizhang-b9769a124/"
+  linkedin: #"wenweizhang-b9769a124/"
   orcid: #"http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "wenweiz97"
+  twitter: #"wenweiz97"
   vine:
   weibo:
   xing:
