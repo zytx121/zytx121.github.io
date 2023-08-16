@@ -9,6 +9,7 @@ paperurl: https://ieeexplore.ieee.org/abstract/document/10147338
 # projecturl: https://www.mmlab-ntu.com/project/baron/index.html
 # posterlink: /files/mmMOT_poster_final.pdf
 additional: true
+highlight: 'The first end-to-end semi-supervised framework for SAR ship detection.'
 
 # venue: 'Journal 1'
 # paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
