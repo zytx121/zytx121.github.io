@@ -19,7 +19,7 @@ Recent News
 
 08 / 2023: One paper on model distillation is accepted by <b>GRSL</b> (JCR Q2)
 
-7 / 2023: A report on adversarial attacks for object detection in remote sensing images is made at IGARSS2023 in Pasadena, CA, USA.
+7 / 2023: A report on adversarial attacks for object detection is made at IGARSS2023 in Pasadena, CA, USA.
 
 06 / 2023: One paper on semi-supervised object detection is accepted by <b>JSTARS</b> (JCR Q2)
 
