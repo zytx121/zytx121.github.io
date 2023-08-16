@@ -8,5 +8,5 @@ year: 2020
 author: Tianwen Zhang, Xiaoling Zhang, Xiao Ke, Xu Zhan, Jun Shi, Shunjun Wei, Dece Pan, Jianwei Li, Hao Su, <strong>Yue Zhou</strong>, Durga Kumar.
 projecturl: https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN
 additional: true
-highlight: 'First large-scale SAR ship detection dataset.'
+highlight: 'The first large-scale SAR ship detection dataset.'
 ---
