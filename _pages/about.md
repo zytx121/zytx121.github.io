@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenwei Zhang, 张文蔚"
+title: "Yue Zhou, 周越"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,10 +13,11 @@ He also works closely with [Jiangmiao Pang](https://oceanpang.github.io/) and [K
 Before that, he received his bachelor degree at the [Computer Science School](http://cs.whu.edu.cn/), Wuhan University.
 You can find his CV [here](/files/resume.pdf).
 
-His main works lie in *Unified Framework for X*, which include [unified image](https://www.mmlab-ntu.com/project/knet/index.html), [video](https://github.com/lxtGH/Video-K-Net), and [point](https://github.com/SmartBot-PJLab/P3Former) segmentation, [Dense Unsupervised Learning](https://www.mmlab-ntu.com/project/densesiam/index.html), and [robust multi-modality multi-object tracking](https://github.com/ZwwWayne/mmMOT).
+Yue Zhou is now a Ph.D. student in Department of Electronic Engineering, [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn), supervised by Professor [Xue Jiang](https://sp.sjtu.edu.cn/) and Professor Xingzhao Liu. 
+He also works closely with [Xue Yang](https://yangxue0827.github.io/) and [Tianwen Zhang](https://www.researchgate.net/profile/Tianwen-Zhang-4), focusing on rotated object detection and SAR ship detection tasks.
+Before that, he received his bachelor degree at the Beijing University of Posts and Telecommunications.
 
-He led the initial release of [MMEngine](https://github.com/open-mmlab/mmengine), the core of [OpenMMLab 2.0](https://openmmlab.com/).
-He built and released [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), and has been leading the development of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) since 2020, respectively. He has been a core maintainer of [OpenMMLab projects](https://openmmlab.com/) since 2019.
+His main works lie in rotated object detection and SAR ship detection. He led the initial release of [MMRotate](https://github.com/open-mmlab/mmrotate) <img src="https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social" />src="https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social" />, and has been leading the development of MMRotate since 2022.
 
 Recent News
 ------------------------
