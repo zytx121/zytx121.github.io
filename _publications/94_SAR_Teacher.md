@@ -1,5 +1,5 @@
 ---
-title: "A Semi-Supervised Arbitrary-Oriented SAR Ship Detection Network based on Interference Consistency Learning and Pseudo Label Calibration"
+title: "A semi-supervised arbitrary-oriented SAR ship detection network based on interference consistency learning and pseudo label calibration"
 collection: publications
 conf: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
 conf_shortname: 'J-STARS'
