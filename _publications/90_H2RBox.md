@@ -1,5 +1,5 @@
 ---
-title: "H2RBox: Horizonal Box Annotation is All You Need for Oriented Object Detection"
+title: "H2RBox: Horizonal box annotation is all you need for oriented object detection"
 collection: publications
 conf: 'International Conference on Learning Representations'
 conf_shortname: 'ICLR'
