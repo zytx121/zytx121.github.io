@@ -10,6 +10,7 @@ paperurl: https://arxiv.org/abs/2210.06742
 # posterlink: /files/mmMOT_poster_final.pdf
 additional: true
 # highlight: 'New state of the art on COCO Panoptic Segmentation and ADE20K Semantic Segmentation datasets.'
+highlight: 'The first weak-supervised framework for rotated object detection.'
 
 # venue: 'Journal 1'
 # paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
