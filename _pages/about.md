@@ -31,7 +31,7 @@ Recent News
 
 08 / 2022: One collaborative paper on rotated object detection (SCRDet++) is accepted by <b>TPAMI</b>
 
-06 / 2022: MMRotate is accepted by <b>ACM MM 2022</b> as <b>Oral</b>
+06 / 2022: MMRotate is accepted by <b>ACM MM Open-source track</b> as <b>Oral</b>
 
 02 / 2022: Research internship at <a href="https://openmmlab.com/" target="_blank">OpenMMLab</a>
 
