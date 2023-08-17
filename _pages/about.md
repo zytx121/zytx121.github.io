@@ -52,3 +52,20 @@ Academic Service
 Conference Reviewer: NeurIPS2023.
 
 Journal Reviewer: TCSVT, Remote Sensing, J-STARS.
+
+
+Demo of MMRotate
+------------------------
+
+<div class="demo">
+      <video width="640" height="320" controls autoplay muted>
+        <source src="https://user-images.githubusercontent.com/10410257/154433305-416d129b-60c8-44c7-9ebb-5ba106d3e9d5.MP4" type="video/mp4">
+      </video>
+</div>
+
+
+
+Visitor Track
+------------------------
+
+<a href="https://clustrmaps.com/site/1bw31"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Dz2WKzeH_f-bhlf4P1GUyy66xVmeZ27SfvNlGz7cOhI&cl=ffffff" /></a>
