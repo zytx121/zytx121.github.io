@@ -17,6 +17,10 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
+10 / 2023: I'm awarded by the Intel Scholarship
+
+10 / 2023: One paper on adversarial attack (CamoNet) is accepted by <b>Remote Sensing</b> (JCR Q2)
+
 08 / 2023: One paper on model distillation (GRD) is accepted by <b>GRSL</b> (JCR Q2)
 
 07 / 2023: A report on adversarial attacks for object detection is made at IGARSS'2023 in Pasadena, CA, USA.
