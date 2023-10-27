@@ -17,7 +17,7 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
-10 / 2023: I'm awarded by the Intel Scholarship
+10 / 2023: I'm awarded by the Intel Scholarship (英特尔奖学金)
 
 10 / 2023: One paper on adversarial attack (CamoNet) is accepted by <b>Remote Sensing</b> (JCR Q2)
 
@@ -45,6 +45,8 @@ Recent News
 
 12 / 2019: I won the 2st place in <a href="https://www.rsaicp.com/" target="_blank">Tianzhi Cup</a> on SAR aircraft detection and recognition track
 
+10 / 2019: I'm awarded by the SMIC Scholarship (中芯国际奖学金)
+
 07 / 2019: Research internship at <a href="https://open.youtu.qq.com/#/open" target="_blank">Tencent YouTu Lab
 
 06 / 2019: I won the 2nd place in <a href="https://beta-www.datafountain.cn/competitions/339" target="_blank">TEDA&JD Cup</a> on Automatic driving traffic sign recognition based on virtual simulation environment track
@@ -53,7 +55,7 @@ Recent News
 Academic Service
 ------------------------
 
-Conference Reviewer: NeurIPS2023.
+Conference Reviewer: NeurIPS'2023, ICLR'2024.
 
 Journal Reviewer: TCSVT, Remote Sensing, J-STARS.
 
