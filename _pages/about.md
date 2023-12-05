@@ -17,6 +17,8 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
+12 / 2023: MMRotate awarded the [Bench100: Top 100 Benchmarks & Evaluation achievements （2022-2023）](https://www.benchcouncil.org/evaluation/bench/annual.html) by International Open Benchmark Council
+
 10 / 2023: I'm awarded by the Intel Scholarship (英特尔奖学金)
 
 10 / 2023: One paper on adversarial attack (CamoNet) is accepted by <b>Remote Sensing</b> (JCR Q2)
@@ -57,7 +59,7 @@ Academic Service
 
 Conference Reviewer: NeurIPS'2023, ICLR'2024.
 
-Journal Reviewer: TCSVT, Remote Sensing, J-STARS.
+Journal Reviewer: TCSVT, GRSL, J-STARS, Remote Sensing.
 
 
 Demo of MMRotate
