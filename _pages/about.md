@@ -17,7 +17,7 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
-12 / 2023: MMRotate awarded the [Bench100: Top 100 Benchmarks & Evaluation achievements （2022-2023）](https://www.benchcouncil.org/evaluation/bench/annual.html) by International Open Benchmark Council
+12 / 2023: I'm awarded the Bench100: Top 100 Benchmarks & Evaluation achievement Award by [International Open Benchmark Council](https://www.benchcouncil.org/evaluation/bench/annual.html)
 
 10 / 2023: I'm awarded by the Intel Scholarship (英特尔奖学金)
 
