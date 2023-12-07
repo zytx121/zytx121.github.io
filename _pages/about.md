@@ -19,7 +19,7 @@ Recent News
 
 12 / 2023: I'm awarded the Bench100: Top 100 Benchmarks & Evaluation achievement Award by [International Open Benchmark Council](https://www.benchcouncil.org/evaluation/bench/annual.html)
 
-10 / 2023: I'm awarded by the Intel Scholarship (英特尔奖学金)
+10 / 2023: I'm awarded by the Intel Fellowship (英特尔奖学金)
 
 10 / 2023: One paper on adversarial attack (CamoNet) is accepted by <b>Remote Sensing</b> (JCR Q2)
 
