@@ -11,23 +11,9 @@ redirect_from:
 
 Education
 ----------------
-* B.S. in Wuhan, China, Wuhan University, 2019(expected).
+* B.S. in Beijing, China, Beijing University of Posts and Telecommunications, 2017.
+* Ph.D. in Shanghai, China, Shanghai Jiao Tong University, 2024.
 
-Work experience
-----------------
-* Spring 2018: Research Intern at [Sensetime](https://www.sensetime.com/)
-  * Research filed included: Lane Segmentation, Scene Recovery Algorithm, Panorama Stitching. 
-  * Supervisor: [Zhe Wang](http://www.ee.cuhk.edu.hk/~zwang/)
-
-* Summer 2018: Research Intern at [iNCML Lab, York University](https://wiki.eecs.yorku.ca/lab/MLL/start)
-  * Research filed included: Reading Comprehension Question & Answering Task
-  * Supervisor: Professor [Hui Jiang](https://wiki.eecs.yorku.ca/user/hj/)
-  
-Skills
-----------------
-* Program Language: Python, lua, matlab, C++, Java.
-* Deep Learning Framework: Pytorch, Torch, Caffe.
-* English Skills: IELTS 6.5, TOEFL 91, GRE 321+3.
 
 Publications
 ---------------
