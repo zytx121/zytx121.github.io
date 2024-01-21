@@ -59,9 +59,9 @@ Recent News
 Academic Service
 ------------------------
 
-Conference Reviewer: NeurIPS'2023, ICLR'2024.
+Conference Reviewer: NeurIPS'2023, ICLR'2024, IGARSS'2024.
 
-Journal Reviewer: TCSVT, GRSL, J-STARS, Remote Sensing.
+Journal Reviewer: TIP, TCSVT, GRSL, J-STARS, Remote Sensing.
 
 
 Demo of MMRotate
