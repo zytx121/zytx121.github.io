@@ -1,11 +1,11 @@
 ---
-title: "DGA: Direction-guided Attack Against Optical Aerial Detection in Camera Shooting Direction Agnostic Scenarios"
+title: "CamoNet: A Target Camouflage Network for Remote Sensing Images Based on Adversarial Attack"
 collection: publications
-conf: 'IEEE Transactions on Geoscience and Remote Sensing'
-conf_shortname: 'TGRS'
-year: '2024'
-author: <strong>Yue Zhou</strong>, Shuqi Sun, Xue Jiang, Guozheng Xu, Fengyuan Hu, Ze Zhang, Xingzhao Liu
-paperurl: https://ieeexplore.ieee.org/document/
+conf: 'Remote Sensing'
+conf_shortname: 'RS'
+year: '2023'
+author: <strong>Yue Zhou</strong>, Wanghan Jiang, Xue Jiang, Lin Chen, Xingzhao Liu
+paperurl: https://www.mdpi.com/2072-4292/15/21/5131
 additional: true
 
 ---
