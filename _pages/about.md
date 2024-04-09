@@ -21,6 +21,8 @@ Recent News
 
 01 / 2024: A collaborative paper on SAR ship detection dataset won the [Best Paper Award](https://www.mdpi.com/journal/remotesensing/awards/2098) in Remote Sensing 2023
 
+12 / 2023: A collaborative paper on multi-modal knowledge distillation is accepted by <b>TGRS</b> (JCR Q1) 
+
 12 / 2023: I'm awarded the Bench100: Top 100 Benchmarks & Evaluation achievement Award by [International Open Benchmark Council](https://www.benchcouncil.org/evaluation/bench/annual.html)
 
 10 / 2023: I'm awarded by the Intel Fellowship (英特尔奖学金)
