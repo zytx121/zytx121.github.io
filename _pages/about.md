@@ -17,6 +17,8 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
+04 / 2024: One paper on physical attack (DGA) is accepted by <b>TGRS</b> (JCR Q1)
+
 01 / 2024: A collaborative paper on SAR ship detection dataset won the [Best Paper Award](https://www.mdpi.com/journal/remotesensing/awards/2098) in Remote Sensing 2023
 
 12 / 2023: I'm awarded the Bench100: Top 100 Benchmarks & Evaluation achievement Award by [International Open Benchmark Council](https://www.benchcouncil.org/evaluation/bench/annual.html)
