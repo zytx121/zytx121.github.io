@@ -1,7 +1,8 @@
 @article{zhou2024dga,
     author    = {Yue Zhou, Shuqi Sun, Xue jiang, Guozheng Xu, Fengyuan Hu, Ze Zhang, Xingzhao Liu},
     title     = {DGA: Direction-guided Attack Against Optical Aerial Detection in Camera Shooting Direction Agnostic Scenarios},
-    journal   = {TGRS},
-    doi    = {10.1109/TGRS.2024.3387486},
+    journal   = {IEEE Transactions on Geoscience and Remote Sensing}, 
+    doi       = {10.1109/TGRS.2024.3387486},
+    pages     = {1-22},
     year      = {2024}
 }
