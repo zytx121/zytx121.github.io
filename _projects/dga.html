@@ -129,13 +129,13 @@
 <html>
 
 <head>
-    <title>Exploring Data Augmentation for Multi-Modality 3D Object Detection</title>
+    <title>DGA: Direction-guided Attack Against Optical Aerial Detection in Camera Shooting Direction Agnostic Scenarios</title>
 </head>
 
 <body>
     <br>
     <center>
-        <span style="font-size:30px">Exploring Data Augmentation for Multi-Modality 3D Object Detection</span>
+        <span style="font-size:30px">DGA: Direction-guided Attack Against Optical Aerial Detection in Camera Shooting Direction Agnostic Scenarios</span>
     </center>
 
     <br>
@@ -145,22 +145,58 @@
         <tr>
             <td align=center width=80px>
                 <center>
-                    <span style="font-size:18px"><a href="">Wenwei Zhang<sup>1</sup></a></span>
+                    <span style="font-size:18px"><a href="">Yue Zhou<sup>1</sup></a></span>
                 </center>
             </td>
 
             <td align=center width=80px>
+                <center>
+                    <span style="font-size:18px">Shuqi Sun<sup>1</sup></span>
+                </center>
+            </td>
+
+            <td align=center width=80px>
+                <center>
+                    <span style="font-size:18px">Xue Jiang<sup>1</sup></span>
+                </center>
+            </td>
+
+            <td align=center width=80px>
+                <center>
+                    <span style="font-size:18px">Guozheng Xu<sup>1</sup></span>
+                </center>
+            </td>
+
+            <td align=center width=80px>
+                <center>
+                    <span style="font-size:18px">Fengyuan Hu<sup>1</sup></span>
+                </center>
+            </td>
+
+            <td align=center width=80px>
+                <center>
+                    <span style="font-size:18px">Ze Zhang<sup>1</sup></span>
+                </center>
+            </td>
+
+            <td align=center width=80px>
+                <center>
+                    <span style="font-size:18px">Xingzhao Liu<sup>1</sup></span>
+                </center>
+            </td>
+
+<!--             <td align=center width=80px>
                 <center>
                     <span style="font-size:18px"><a href="https://wang-zhe.me/">Zhe Wang<sup>2</sup></a></span>
                 </center>
             </td>
-
-            <td align=center width=80px>
+ -->
+<!--             <td align=center width=80px>
                 <center>
                     <span style="font-size:18px"><a href="http://personal.ie.cuhk.edu.hk/~ccloy/">Chen Change
                             Loy<sup>1</sup></a></span>
                 </center>
-            </td>
+            </td> -->
 
         </tr>
     </table>
@@ -171,15 +207,15 @@
         <tr>
             <td align=center width=80px>
                 <center>
-                    <span style="font-size:20px"><sup>1</sup>S-Lab, Nanyang Technological University</span>
+                    <span style="font-size:20px"><sup>1</sup>Shanghai Jiao Tong University</span>
                 </center>
             </td>
 
-            <td align=center width=80px>
+<!--             <td align=center width=80px>
                 <center>
                     <span style="font-size:20px"><sup>2</sup>SenseTime Research</span>
                 </center>
-            </td>
+            </td> -->
 
         </tr>
     </table>
@@ -211,31 +247,15 @@
 
     <br>
     <p style="text-align:justify">
-        We present our on-going effort of multi-modality 3D object detection.
-        It is counter-intuitive that multi-modality methods based on point cloud and images perform only marginally
-        better or sometimes worse than approaches that solely use point cloud.
-        This paper investigates the reason behind this phenomenon.
-        Due to the fact that multi-modality data augmentation must maintain consistency between point cloud and
-        images,
-        recent methods in this field typically use relatively insufficient data augmentation.
-        This shortage makes their performance under expectation.
-        Therefore, we contribute a pipeline, named transformation flow, to bridge the gap between single and
-        multi-modality data augmentation with transformation reversing and replaying.
-        In addition, considering occlusions, a point in different modalities may be occupied by different objects,
-        making augmentations such as cut and paste non-trivial for multi-modality detection.
-        We further present Multi-mOdality Cut and pAste (MoCa), which simultaneously considers occlusion and
-        physical
-        plausibility to maintain the multi-modality consistency.
-        Without using ensemble of detectors, our multi-modality detector achieves new state-of-the-art performance
-        on
-        nuScenes dataset and competitive performance on KITTI 3D benchmark.
+       Patch-based adversarial attacks have increasingly aroused concerns due to their application potential in military and civilian fields. In aerial imagery, numerous targets exhibit inherent directionality, such as vehicles and ships, giving rise to the emergence of oriented object detection tasks; similarly, adversarial patches also exhibit intrinsic orientation due to their lack of perfect symmetry. Existing methods presuppose a static alignment between the adversarial patch's orientation and the camera's coordinate system -- an assumption that is frequently violated in aerial images, whose effectiveness degrades in real-world scenarios. In this paper, we investigate the often-neglected aspect of patch orientation in adversarial attacks and its impact on camouflage effectiveness, particularly when the orientation is not congruent with the target. A new Directional Guided Attack (DGA) framework is proposed for deceiving real-world aerial detectors, which shows robust and adaptable attack performance in camera shooting direction agnostic (CSDA) scenarios. The core idea of DGA is to utilize affine transformations to constrain the relative orientation of the patch to the target and introduce three types of loss to reduce target detection confidence, make the color printable, and smooth the patch color. We introduce a direction-guided evaluation methodology to bridge the gap between patch performance in the digital domain and its actual real-world efficacy. Moreover, we establish a drone-based vehicle detection dataset (SJTU-4K), which labels the orientation of the target, to assess the robustness of patches under various shooting altitudes and views. Extensive proportionally scaled and 1:1 experiments are performed in physical scenarios, demonstrating the superiority and potential of the proposed framework for real-world attacks. 
 
     </p>
     <br><br>
     <hr>
 
     <!-- <table align=center width=550px> -->
-    <table align=center width=1100>
+
+<!--     <table align=center width=1100>
         <center>
             <h1>Paper</h1>
         </center>
@@ -245,20 +265,21 @@
             <!-- <td><a href="#"><img class="layered-paper-big" style="height:175px" src="./resources/images/paper.png"/></a></td> -->
             <td><a href="./support/paper.pdf"><img style="height:180px" src="./support/paper_3d.jpg" /></a></td>
             <!--<td><a href="https://arxiv.org/pdf/1904.09571.pdf"><img style="height:180px" src="./support/paper_3d.png"/></a></td>-->
-            <td><span style="font-size:14pt">Exploring Data Augmentation for Multi-Modality 3D Object Detection<br><br>
-                    <i>Wenwei Zhang, Zhe Wang, Chen Change Loy</i><br><br>
+            <td><span style="font-size:14pt">DGA: Direction-guided Attack Against Optical Aerial Detection in Camera Shooting Direction Agnostic Scenarios<br><br>
+                    <i>Yue Zhou, Shuqi Sun, Xue jiang, Guozheng Xu, Fengyuan Hu, Ze Zhang, Xingzhao Liu</i><br><br>
                     CoRR, abs/2012.12741, 2020
             </td>
         </tr>
-    </table>
+    </table> -->
+
     <table align=center width=400px>
         <tr>
-            <td><span style="font-size:14pt">
+ <!--            <td><span style="font-size:14pt">
                     <center>
                         <a href="./support/paper.pdf">[PDF]</a>
                         <!--<a href="https://arxiv.org/pdf/1904.09571.pdf">[PDF]</a>-->
                     </center>
-            </td>
+            </td> -->
 
             <!--<td><span style="font-size:14pt"><center>-->
             <!--<a href="./support/TGaGa-supp.pdf">[Appendix]</a>-->
@@ -270,7 +291,7 @@
 
             <td><span style="font-size:14pt">
                     <center>
-                        <a href="./moca_support/bibtex.txt">[BibTex]</a>
+                        <a href="./dga_support/bibtex.txt">[BibTex]</a>
                         <!--<a href="./support/TGaGa_bibtex.txt">[Bibtex]</a>-->
                     </center>
             </td>
