@@ -243,6 +243,11 @@
                     </center>
             </td>
 
+            <td><span style="font-size:14pt">
+                    <center>
+                        <a href="https://drive.google.com/drive/folders/1LWXC-a7OM2kGbXeCp-frrMcBOFD127Hb?usp=sharing">[Dataset]</a>
+                    </center>
+            </td>
 
             <td><span style="font-size:14pt">
                     <center>
@@ -258,15 +263,7 @@
         <tr>
             <td width=900px>
                 <center>
-                    <img src="./dga_support/dga.png" height="400px"></img>
-                        </href><br>
-                </center>
-            </td>
-        </tr>
-        <tr>
-            <td width=900px>
-                <center>
-                    <img src="./dga_support/pa.png" height="400px"></img>
+                    <img src="./dga_support/dga.png" height="600px"></img>
                         </href><br>
                 </center>
             </td>
@@ -274,6 +271,10 @@
     </table>
 
     <br>
+
+    <h3>
+        Abstract
+    </h3>
     <p style="text-align:justify">
        Patch-based adversarial attacks have increasingly aroused concerns due to their application potential in military and civilian fields. In aerial imagery, numerous targets exhibit inherent directionality, such as vehicles and ships, giving rise to the emergence of oriented object detection tasks; similarly, adversarial patches also exhibit intrinsic orientation due to their lack of perfect symmetry. Existing methods presuppose a static alignment between the adversarial patch's orientation and the camera's coordinate system -- an assumption that is frequently violated in aerial images, whose effectiveness degrades in real-world scenarios. In this paper, we investigate the often-neglected aspect of patch orientation in adversarial attacks and its impact on camouflage effectiveness, particularly when the orientation is not congruent with the target. A new Directional Guided Attack (DGA) framework is proposed for deceiving real-world aerial detectors, which shows robust and adaptable attack performance in camera shooting direction agnostic (CSDA) scenarios. The core idea of DGA is to utilize affine transformations to constrain the relative orientation of the patch to the target and introduce three types of loss to reduce target detection confidence, make the color printable, and smooth the patch color. We introduce a direction-guided evaluation methodology to bridge the gap between patch performance in the digital domain and its actual real-world efficacy. Moreover, we establish a drone-based vehicle detection dataset (SJTU-4K), which labels the orientation of the target, to assess the robustness of patches under various shooting altitudes and views. Extensive proportionally scaled and 1:1 experiments are performed in physical scenarios, demonstrating the superiority and potential of the proposed framework for real-world attacks. 
 
@@ -288,7 +289,7 @@
 
     <table align=center width=900px>
         <tr>
-            <td width=900px>
+            <td width=600px>
                 <center>
                     <img src="./dga_support/sjtu-4k.png"></img>
                         </href><br>
@@ -298,7 +299,7 @@
         <tr>
             <td width=900px>
                 <center>
-                    <img src="./dga_support/sjtu-4k-img" height="400px"></img>
+                    <img src="./dga_support/sjtu-4k-img.png" height="400px"></img>
                         </href><br>
                 </center>
             </td>
@@ -307,12 +308,19 @@
 
     <br>
 
+    <p style="text-align:justify">
+       To collect the data we require, we design a reasonable scheme for data capture. First, we chose 20 scenes on our campus as our experimental site, including streets and car parks, where many kinds of cars are often seen. Afterward, we used the DJI Mini 3 drone as the capturing tool. In our scheme, the flight height ranges from 20 m to 120 m, and there were 9 flight heights in total. The resolution to the raw images is 4000 * 2260 pixels. We also provide aerial images captured at different pitch angles and directions, which are closer to real scenes. Figure 1 shows several images captured by our drone with different pitch angles from the heights of 20 m, 40 m, 80 m, and 110 m, respectively. The size of the objects is quite diverse, and the number of objects in a single image is large, especially for images captured at a great height. The detailed distribution of data in the SJTU-4K dataset is shown in Figure 2. However, this size is too large, being unsuitable for our experiment. Therefore, we need to conduct some processing of the raw images. They are tailored into a smaller size of 1024 * 1024 when being attacked. Ultimately, there are 10260 training images with 57172 car objects and 6345 testing images with 19969 car objects. To cooperate with the new patch-based attack evaluation method proposed, we used rotated boxes to label vehicles. Unlike the common rotated box representation, we use a 360-degree angle representation to retain the direction information of vehicles.
+
+    </p>
+
+    <br>
+
     <h3>
         Experiments on DGA
     </h3>
 
 
-    <table align=center width=900px>
+    <table align=center width=600px>
         <tr>
             <td width=900px>
                 <center>
@@ -324,7 +332,7 @@
         <tr>
             <td width=900px>
                 <center>
-                    <img src="./dga_support/real_exp" height="400px"></img>
+                    <img src="./dga_support/real_exp.png" height="400px"></img>
                         </href><br>
                 </center>
             </td>
@@ -335,30 +343,3 @@
     <hr>
     <br>
 
-    <h3>
-        BibTeX
-    </h3>
-
-<table align=center width=400px>
-    <pre data-role="codeBlock" data-info="text" class="language-text">
-@article{wang2024earthvqa, 
-                    title={EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering},
-                    url={https://ojs.aaai.org/index.php/AAAI/article/view/28357}, 
-                    DOI={10.1609/ai.v38i6.28357}, 
-                    author={Wang, Junjue and Zheng, Zhuo and Chen, Zihang and Ma, Ailong and Zhong, Yanfei}, 
-                    year={2024}, 
-                    month={Mar.},
-                    volume={38},
-                    pages={5481-5489}}
-@inproceedings{wang2021loveda,
-                    title={Love{DA}: A Remote Sensing Land-Cover Dataset for Domain Adaptive Semantic Segmentation},
-                    author={Junjue Wang and Zhuo Zheng and Ailong Ma and Xiaoyan Lu and Yanfei Zhong},
-                    booktitle={Proceedings of the Neural Information Processing Systems Track on Datasets and Benchmarks},
-                    editor = {J. Vanschoren and S. Yeung},
-                    year={2021},
-                    volume = {1},
-                    pages = {},
-                    url={https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/4e732ced3463d06de0ca9a15b6153677-Paper-round2.pdf}
-                }
-    </pre>
-</table>
