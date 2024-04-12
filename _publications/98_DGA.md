@@ -6,6 +6,7 @@ conf_shortname: 'TGRS'
 year: '2024'
 author: <strong>Yue Zhou</strong>, Shuqi Sun, Xue Jiang, Guozheng Xu, Fengyuan Hu, Ze Zhang, Xingzhao Liu
 paperurl: https://ieeexplore.ieee.org/document/
+projecturl: https://zytx121.github.io/projects/dga
 additional: true
-
+highlight: 'The first direction-guided attack against aerial detectors.'
 ---
