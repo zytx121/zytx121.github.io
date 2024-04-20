@@ -1,5 +1,5 @@
 ---
-title: "DGA: Direction-guided Attack Against Optical Aerial Detection in Camera Shooting Direction Agnostic Scenarios"
+title: "DGA: Direction-Guided Attack Against Optical Aerial Detection in Camera Shooting Direction-Agnostic Scenarios"
 collection: publications
 conf: 'IEEE Transactions on Geoscience and Remote Sensing'
 conf_shortname: 'TGRS'
