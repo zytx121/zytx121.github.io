@@ -17,27 +17,30 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
-04 / 2024: One paper on physical attack (DGA) is accepted by <b>TGRS</b> (JCR Q1)
+
+05 / 2024: I'm awarded the [Shanghai Outstanding Graduates](https://www.seiee.sjtu.edu.cn/xsgz_tzgg_zyfz/10038.html)
+
+04 / 2024: One paper on physical attack (DGA) is accepted by <b>TGRS</b>
 
 01 / 2024: A collaborative paper on SAR ship detection dataset won the [Best Paper Award](https://www.mdpi.com/journal/remotesensing/awards/2098) in Remote Sensing 2023
 
-12 / 2023: A collaborative paper on multi-modal knowledge distillation is accepted by <b>TGRS</b> (JCR Q1) 
+12 / 2023: A collaborative paper on multi-modal knowledge distillation is accepted by <b>TGRS</b>
 
 12 / 2023: I'm awarded the Bench100: Top 100 Benchmarks & Evaluation achievement Award by [International Open Benchmark Council](https://www.benchcouncil.org/evaluation/bench/annual.html)
 
 10 / 2023: I'm awarded by the Intel Fellowship (英特尔奖学金)
 
-10 / 2023: One paper on adversarial attack (CamoNet) is accepted by <b>Remote Sensing</b> (JCR Q2)
+10 / 2023: One paper on adversarial attack (CamoNet) is accepted by <b>Remote Sensing</b>
 
-08 / 2023: One paper on model distillation (GRD) is accepted by <b>GRSL</b> (JCR Q2)
+08 / 2023: One paper on model distillation (GRD) is accepted by <b>GRSL</b>
 
 07 / 2023: A report on adversarial attacks for object detection is made at IGARSS'2023 in Pasadena, CA, USA.
 
-06 / 2023: One paper on semi-supervised object detection (SAR-Teacher) is accepted by <b>JSTARS</b> (JCR Q2)
+06 / 2023: One paper on semi-supervised object detection (SAR-Teacher) is accepted by <b>JSTARS</b>
 
 01 / 2023: One collaborative paper on rotated object detection (H2RBox) is accepted by <b>ICLR 2023</b>
 
-11 / 2022: One paper on rotated object detection (PVT-SAR) is accepted by <b>JSTARS</b> (JCR Q2)
+11 / 2022: One paper on rotated object detection (PVT-SAR) is accepted by <b>JSTARS</b>
 
 10 / 2022: A report on rotated object detection is made at the Journal of Radar doctoral forum (雷达学报博士论坛)
 
