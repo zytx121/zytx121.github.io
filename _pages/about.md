@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Yue Zhou is now working as a Research Fellow at [S-Lab](https://www.ntu.edu.sg/s-lab), Nanyang Technological University (Singapore). Previously, he received his PhD degree at the Department of Electronic Engineering, [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn), supervised by Professor [Xue Jiang](https://sp.sjtu.edu.cn/) and Professor Xingzhao Liu. 
+Yue Zhou is now working as a Research Fellow at [S-Lab](https://www.ntu.edu.sg/s-lab), Nanyang Technological University (Singapore), supervised by Assoc. Prof. [Kelly Ke Yiping](https://keyiping.wixsite.com/index), focusing on remote sensing vision-language model.
+
+
+Previously, he received his PhD degree at the Department of Electronic Engineering, [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn), supervised by Professor [Xue Jiang](https://sp.sjtu.edu.cn/) and Professor Xingzhao Liu. 
 He also works closely with [Xue Yang](https://yangxue0827.github.io/) and [Tianwen Zhang](https://www.researchgate.net/profile/Tianwen-Zhang-4), focusing on rotated object detection and SAR ship detection tasks.
 Before that, he received his bachelor degree at the School of Information and Communication, Beijing University of Posts and Telecommunications.
 
