@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yue Zhou is now working as a Research Fellow at [S-Lab](https://www.ntu.edu.sg/s-lab), Nanyang Technological University, supervised by Assoc. Prof. [Kelly Ke Yiping](https://keyiping.wixsite.com/index), focusing on remote sensing vision-language model.
+Yue Zhou is now working as a Research Fellow at [S-Lab](https://www.ntu.edu.sg/s-lab), Nanyang Technological University, focusing on remote sensing vision-language model.
 
 
 Previously, he received his PhD degree at the Department of Electronic Engineering, [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn), supervised by Professor [Xue Jiang](https://sp.sjtu.edu.cn/) and Professor Xingzhao Liu. 
