@@ -20,6 +20,7 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
+06 / 2024: A collaborative paper on semi-supervised change detection is accepted by <b>JSTARS</b>
 
 05 / 2024: I'm awarded the [Shanghai Outstanding Graduates](https://www.seiee.sjtu.edu.cn/xsgz_tzgg_zyfz/10038.html)
 
