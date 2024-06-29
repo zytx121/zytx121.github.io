@@ -72,7 +72,7 @@ Academic Service
 
 Conference Reviewer: NeurIPS'2023, ICLR'2024, IGARSS'2024.
 
-Journal Reviewer: TIP, TGRS, TCSVT, GRSL, J-STARS, Remote Sensing.
+Journal Reviewer: TIP, TGRS, TCSVT, GRSL, J-STARS, Remote Sensing, GSIS.
 
 
 Demo of MMRotate
