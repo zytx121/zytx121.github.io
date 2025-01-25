@@ -20,6 +20,8 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
+01 / 2025: A collaborative paper on referring expression segmentation is accepted by <b>ICLR</b>
+
 06 / 2024: A collaborative paper on semi-supervised change detection is accepted by <b>JSTARS</b>
 
 05 / 2024: I'm awarded the [Shanghai Outstanding Graduates](https://www.seiee.sjtu.edu.cn/xsgz_tzgg_zyfz/10038.html)
@@ -70,9 +72,9 @@ Recent News
 Academic Service
 ------------------------
 
-Conference Reviewer: NeurIPS'2023, ICLR'2024, IGARSS'2024.
+Conference Reviewer: CVPR'2025, ICLR'2024-2025, IGARSS'2024-2025, NeurIPS'2023.
 
-Journal Reviewer: TIP, TGRS, TCSVT, GRSL, J-STARS, Remote Sensing, GSIS.
+Journal Reviewer: TIP, GRSM, TGRS, TCSVT, GRSL, J-STARS, Remote Sensing, GSIS.
 
 
 Demo of MMRotate
