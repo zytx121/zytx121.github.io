@@ -20,6 +20,8 @@ His main works lie in rotated object detection and SAR ship detection. He led th
 Recent News
 ------------------------
 
+05 / 2025: One paper on Spatially-Aware Aerial Agent (AirSpatialBot) is accepted by <b>TGRS</b>
+
 01 / 2025: A collaborative paper on referring expression segmentation is accepted by <b>ICLR</b>
 
 06 / 2024: A collaborative paper on semi-supervised change detection is accepted by <b>JSTARS</b>
