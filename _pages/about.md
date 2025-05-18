@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yue Zhou is now working as a Research Fellow at [S-Lab](https://www.ntu.edu.sg/s-lab), Nanyang Technological University, focusing on remote sensing vision-language model.
+Yue Zhou is now working as a Research Fellow at [S-Lab](https://www.ntu.edu.sg/s-lab), Nanyang Technological University, focusing on Remote Sensing Vision-Language Models (RSVLMs). He works closely with [Mengcheng Lan](https://mc-lan.github.io/), focusing on rreferring expression segmentation based on Multi-modal Large Language Models (MLLMs).
 
 
 Previously, he received his PhD degree at the Department of Electronic Engineering, [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn), supervised by Professor [Xue Jiang](https://sp.sjtu.edu.cn/) and Professor Xingzhao Liu. 
