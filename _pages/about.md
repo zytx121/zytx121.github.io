@@ -78,7 +78,7 @@ Recent News
 Academic Service
 ------------------------
 
-Conference Reviewer: CVPR'2025, ICLR'2024-2025, IGARSS'2024-2025, NeurIPS'2023.
+Conference Reviewer: MM'2025, ICCV'2025, CVPR'2025, ICLR'2024-2025, IGARSS'2024-2025, NeurIPS'2023-2025.
 
 Journal Reviewer: TIP, GRSM, TGRS, TCSVT, GRSL, J-STARS, Remote Sensing, GSIS.
 
