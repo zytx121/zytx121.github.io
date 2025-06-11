@@ -1,19 +1,26 @@
+# ⌚️ Work Experience
+- *2024.06 - 2025.06*, Research Fellow, Nanyang Technological University, Singapore.
+- *2024.01 - 2024.06*, Postdoctor, Shanghai Jiao Tong University, Shanghai.
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+- *2018.09 - 2024.03*, Doctor, Shanghai Jiao Tong University, Shanghai.
+- *2013.09 - 2017.06*, Undergraduate, Beijing University of Posts and Telecommunications, Beijing.
 
-# 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+# 🎓 Academic Service
+- *Conference Reviewer*: MM'2025, ICCV'2025, CVPR'2025, ICLR'2024-2025, IGARSS'2024-2025, NeurIPS'2023-2025.
+- *Journal Reviewer*: TIP, GRSM, TGRS, TCSVT, GRSL, JSTARS, RS, GSIS.
 
 # 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+- *2022.02 - 2023.02*, Shanghai AI Lab, Shanghai.
+- *2020.09 - 2021.06*, Intel Asia R&D Center, Shanghai.
+- *2019.07 - 2020.05*, Tencent YouTu Lab, Shanghai.
+
+# 🍲 Demo of MMRotate
+<div class="demo">
+      <video width="640" height="320" controls autoplay muted>
+        <source src="https://user-images.githubusercontent.com/10410257/154433305-416d129b-60c8-44c7-9ebb-5ba106d3e9d5.MP4" type="video/mp4">
+      </video>
+</div>
+
+# 👣 Visitor Track
+<a href="https://clustrmaps.com/site/1bw31"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Dz2WKzeH_f-bhlf4P1GUyy66xVmeZ27SfvNlGz7cOhI&cl=ffffff" /></a>

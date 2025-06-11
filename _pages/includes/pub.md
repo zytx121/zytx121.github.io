@@ -1,136 +1,53 @@
 
-# 📝 Publications 
-## 🎙 Speech Synthesis
+# 📝 Selected Publications 
 
+## 🎙 Large Vision Language Models
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
-
-[**Project**](https://boostprompt.github.io/boostprompt/) 
-  - This work has been deployed on many TikTok products.
-  - Advandced zero-shot voice cloning model.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
+[AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://arxiv.org/abs/2105.02446) \\
+**Yue Zhou**, Ran Ding, Xue Yang, Xue Jiang, Xingzhao Liu
 
 - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
 - DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
 
 - [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
 </div>
-</div>
+</div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- `TGRS 2025` [AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://ieeexplore.ieee.org/document/11006099), **Yue Zhou**, Ran Ding, et al. [![](https://img.shields.io/github/stars/VisionXLab/AirSpatialBot?style=social&label=Code+Stars)](https://github.com/VisionXLab/AirSpatialBot)
+- `IGARSS 2025` [AirAgent: An assistant for zero-shot fine-grained target attribute recognition in aerial imagery](https://ieeexplore.ieee.org/document/11006099), Ran Ding, **Yue Zhou**, et al.
+- `ICLR 2025` [Text4Seg: Reimagining Image Segmentation as Text Generation](https://arxiv.org/abs/2410.09855), Mengcheng Lan, Chaofeng Chen, **Yue Zhou**, et al. [![](https://img.shields.io/github/stars/mc-lan/Text4Seg?style=social&label=Code+Stars)](https://github.com/mc-lan/Text4Seg)
+- `arXiv 2024` [GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding](https://arxiv.org/abs/2304.04403), **Yue Zhou**, Mengcheng Lan, Xiang Li, Litong Feng, Yiping Ke, Xue Jiang, Qingyun Li, Xue Yang, Wayne Zhang. [![](https://img.shields.io/github/stars/VisionXLab/GeoGround?style=social&label=Code+Stars)](https://github.com/VisionXLab/GeoGround)
+- `arXiv 2024` [Towards Vision-Language Geo-Foundation Model: A Survey](https://arxiv.org/abs/2304.04403), **Yue Zhou**, Litong Feng, et al. [![](https://img.shields.io/github/stars/zytx121/Awesome-VLGFM?style=social&label=Code+Stars)](https://github.com/zytx121/Awesome-VLGFM)
 
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
+## 📚 Adversarial attack
 
-[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
-</div>
-</div>
-
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
-- ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
-- ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
-- ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
-- ``ACL 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, et al.
-- `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
-- `INTERSPEECH 2023` [StyleS2ST: zero-shot style transfer for direct speech-to-speech translation](https://arxiv.org/abs/2305.17732), Kun Song, **Yi Ren**, Yi Lei, et al.
-- `INTERSPEECH 2023` [GenerTTS: Pronunciation Disentanglement for Timbre and Style Generalization in Cross-Lingual Text-to-Speech](https://arxiv.org/abs/2306.15304), Yahuan Cong, Haoyu Zhang, Haopeng Lin, Shichao Liu, Chunfeng Wang, **Yi Ren**, et al.
-- `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
-- `NeurIPS 2022` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, et al.
-- `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, et al. *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)
-- ``ACM-MM 2022`` [ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech](), Rongjie Huang, Zhou Zhao, Huadai Liu, Jinglin Liu, Chenye Cui, **Yi Ren**, [![](https://img.shields.io/github/stars/Rongjiehuang/ProDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/ProDiff)
-- ``ACM-MM 2022`` [SingGAN: Generative Adversarial Network For High-Fidelity Singing Voice Generation](https://arxiv.org/abs/2110.07468), Rongjie Huang, Chenye Cui, Chen Feiayng, **Yi Ren**, et al.
-- ``IJCAI 2022`` [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](), Zhenhui Ye, Zhou Zhao, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social&label=Code+Stars)](https://github.com/yerfor/SyntaSpeech)
-- ``IJCAI 2022`` <span style="color:red">(Oral)</span> [EditSinger: Zero-Shot Text-Based Singing Voice Editing System with Diverse Prosody Modeling](), Lichao Zhang, Zhou Zhao, **Yi Ren**, et al.
-- ``IJCAI 2022`` [FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis](), Rongjie Huang, Max W. Y. Lam, Jun Wang, Dan Su, Dong Yu, **Yi Ren**, Zhou Zhao,  <span style="color:red">(Oral)</span>, [![](https://img.shields.io/github/stars/Rongjiehuang/FastDiff?style=social&label=Code+Stars)](https://github.com/Rongjiehuang/FastDiff)
-- ``NAACL 2022`` [A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation](), Kexun Zhang, Rui Wang, Xu Tan, Junliang Guo, **Yi Ren**, et al.
-- ``ACL 2022`` [Revisiting Over-Smoothness in Text to Speech](https://arxiv.org/abs/2202.13066), **Yi Ren**, Xu Tan, Tao Qin, et al.
-- ``ACL 2022`` [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277), Jinglin Liu, Chengxi Li, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/MoonInTheRiver/NeuralSVB?style=social&label=Code+Stars)](https://github.com/MoonInTheRiver/NeuralSVB)
-- ``ICASSP 2022`` [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://prosospeech.github.io/), **Yi Ren**, et al.
-- ``INTERSPEECH 2021`` [EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model](https://arxiv.org/abs/2106.09317), Chenye Cui, **Yi Ren**, et al.
-- ``INTERSPEECH 2021`` <span style="color:red">(best student paper award candidate)</span> [WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution](https://arxiv.org/abs/2106.08507), Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao
-- ``ICASSP 2021`` [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, **Yi Ren**, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/denoispeech/)
-- ``ACM-MM 2021`` [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/pdf/2112.10358), Rongjie Huang, Feiyang Chen, **Yi Ren**, et al. <span style="color:red">(Oral)</span>
-- ``IJCAI 2021`` [FedSpeech: Federated Text-to-Speech with Continual Learning](https://www.ijcai.org/proceedings/2021/527), Ziyue Jiang, **Yi Ren**, et al.
-- ``KDD 2020`` [DeepSinger: Singing Voice Synthesis with Data Mined From the Web](https://dl.acm.org/doi/abs/10.1145/3394486.3403249), **Yi Ren**, Xu Tan, Tao Qin, et al. \| [**Project**](https://speechresearch.github.io/deepsinger/)
-- ``KDD 2020`` [LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition](https://dl.acm.org/doi/abs/10.1145/3394486.3403331), Jin Xu, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/lrspeech/)
-- ``INTERSPEECH 2020`` [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/multispeech/)
-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, et al.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
-
-## 👄 TalkingFace & Avatar
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb), Zhenhui Ye, Tianyun Zhong, Yi Ren, et al. <span style="color:red">(Spotlight)</span> [**Project**](https://real3dportrait.github.io/) | [**Code**](https://github.com/yerfor/Real3DPortrait)
-</div>
-</div>
-
-- `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, et al.
-- `AAAI 2024` [AMD: Autoregressive Motion Diffusion](https://arxiv.org/abs/2305.09381), Bo Han, Hao Peng, Minjing Dong, **Yi Ren**, et al.
-- ``AAAI 2022`` [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/Dianezzy/ParaLip?style=social&label=ParaLip Stars)](https://github.com/Dianezzy/ParaLip)
-- ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, et al.
-- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, et al.
-
-## 📚 Machine Translation 
-- ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
-- `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
-- ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
-- ``IJCAI 2020`` [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, et al.
-- ``ACL 2020`` [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ACL 2020`` [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ICLR 2019`` [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, et al.
+- `TGRS 2024` [DGA: Direction-Guided Attack Against Optical Aerial Detection in Camera Shooting Direction-Agnostic Scenarios](https://ieeexplore.ieee.org/document/10497142), **Yue Zhou**, Shuqi Sun, et al. [![](https://img.shields.io/github/stars/zytx121/DGA?style=social&label=Code+Stars)](https://github.com/zytx121/DGA)
+- `RS 2023` [CamoNet: A Target Camouflage Network for Remote Sensing Images Based on Adversarial Attack](https://www.mdpi.com/2072-4292/15/21/5131), **Yue Zhou**, Wanghan Jiang, et al.
 
 
-## 🎼 Music & Dance Generation 
-- ``IEEE TMM`` [SDMuse: Stochastic Differential Music Editing and Generation via Hybrid Representation](https://ieeexplore.ieee.org/document/10149095), Chen Zhang, Yi Ren, Kejun Zhang, Shuicheng Yan.
-- ``AAAI 2021`` [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, et al.
-- ``ACM-MM 2020`` <span style="color:red">(Oral)</span> [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/popmag/)
+## ⚽️ Rotated Object Detection
 
-## 🧑‍🎨 Generative Model
-- ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
+- `MM 2022` [MMRotate: A rotated object detection benchmark using pytorch](https://ieeexplore.ieee.org/abstract/document/9947220), **Yue Zhou**, Xue Yang, et al. [![](https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social&label=Code+Stars)](https://github.com/open-mmlab/mmrotate)
+- `NeurIPS 2023` [H2rbox-v2: Boosting hbox-supervised oriented object detection via symmetric learning](https://arxiv.org/abs/2304.04403), Yi Yu, Xue Yang, Qingyun Li, **Yue Zhou**, et al. [**Project**](https://github.com/open-mmlab/mmrotate/tree/1.x/configs/h2rbox_v2)
+- `ICLR 2023` [The KFIoU loss for rotated object detection](https://arxiv.org/abs/2201.12558), Xue Yang, **Yue Zhou**, et al. [**Project**](https://github.com/open-mmlab/mmrotate/tree/1.x/configs/kfiou)
+- `ICLR 2023` [H2RBox: Horizonal box annotation is all you need for oriented object detection](https://arxiv.org/abs/2210.06742), Xue Yang, Gefan Zhang, Wentong Li, Xuehui Wang, **Yue Zhou**, et al. [**Project**](https://github.com/open-mmlab/mmrotate/tree/1.x/configs/h2rbox)
+- `JSTARS 2023` [A semi-supervised arbitrary-oriented SAR ship detection network based on interference consistency learning and pseudo label calibration](https://ieeexplore.ieee.org/abstract/document/10147338), **Yue Zhou**, Xue Jiang, et al.
+- `TPAMI 2022` [Detecting rotated objects as gaussian distributions and its 3-d generalization](https://ieeexplore.ieee.org/abstract/document/9852282), Xue Yang, Gefan Zhang, Xiaojiang Yang, **Yue Zhou**, et al.
+- `arXiv 2022` [Rtmdet: An empirical study of designing real-time object detectors](https://arxiv.org/abs/2212.07784), Chengqi Lyu, Wenwei Zhang, Haian Huang, **Yue Zhou**, et al. [**Project**](https://github.com/open-mmlab/mmrotate/tree/1.x/configs/rotated_rtmdet)
+- `JSTARS 2022` [PVT-SAR: An arbitrarily oriented SAR ship detector with pyramid vision transformer](https://ieeexplore.ieee.org/abstract/document/9947220), **Yue Zhou**, Xue Jiang, et al.
+- `IGARSS 2022` [Benchmark for Arbitrary-Oriented SAR Ship Detection](https://ieeexplore.ieee.org/abstract/document/9884501), **Yue Zhou**, Xue Jiang, et al.
+- `IGARSS 2021` [Arbitrary-oriented SAR ship detection via frequency learning](https://ieeexplore.ieee.org/abstract/document/9553737), **Yue Zhou**, Xue Jiang, et al.
+- `CVPR 2020` [Dense label encoding for boundary discontinuity free rotation detection](https://arxiv.org/abs/2011.09670), Xue Yang, Liping Hou, **Yue Zhou**, et al. [![](https://img.shields.io/github/stars/yangxue0827/RotationDetection?style=social&label=Code+Stars)](https://github.com/yangxue0827/RotationDetection)
 
-## Others
-- `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+
+## 🚢 SAR Automatic Target Recognition
+
+- `GRSL 2023` [GRD: An ultra-lightweight SAR ship detector based on global relationship distillation](https://ieeexplore.ieee.org/abstract/document/10210289), **Yue Zhou**, Xue Jiang, et al.
+- `RS 2021` [SAR ship detection dataset (SSDD): Official release and comprehensive data analysis](https://www.mdpi.com/2072-4292/13/18/3690), Tianwen Zhang, Xiaoling Zhang, Jianwei Li, Xiaowo Xu, Baoyou Wang, Xu Zhan, Yanqin Xu, Xiao Ke, Tianjiao Zeng, Hao Su, Israr Ahmad, Dece Pan, Chang Liu, **Yue Zhou**, et al. [![](https://img.shields.io/github/stars/TianwenZhang0825/Official-SSDD?style=social&label=Code+Stars)](https://github.com/TianwenZhang0825/Official-SSDD)
+- `GARSS 2020` [SAR Target Classification with Limited Data via Data Driven Active Learning](https://ieeexplore.ieee.org/abstract/document/9324364), **Yue Zhou**, Xue Jiang, et al.
+- `RS 2020` [LS-SSDD-v1. 0: A deep learning dataset dedicated to small ship detection from large-scale Sentinel-1 SAR images](https://www.mdpi.com/2072-4292/12/18/2997), Tianwen Zhang, Xiaoling Zhang, Xiao Ke, Xu Zhan, Jun Shi, Shunjun Wei, Dece Pan, Jianwei Li, Hao Su, **Yue Zhou**, et al. [![](https://img.shields.io/github/stars/TianwenZhang0825/LS-SSDD-v1.0-OPEN?style=social&label=Code+Stars)](https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN)
+- `GARSS 2020` [Convolutional neural network-based dictionary learning for SAR target recognition](https://ieeexplore.ieee.org/abstract/document/9144271), L Tao, **Yue Zhou**, et al.
