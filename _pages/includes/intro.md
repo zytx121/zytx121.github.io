@@ -5,4 +5,4 @@ He also works closely with [Xue Yang (杨学)](https://yangxue0827.github.io/), 
 
 His main works lie in remote sensing vision language models, UAV-based agent and rotated object detection. He led the initial release of [MMRotate](https://github.com/open-mmlab/mmrotate) <img src="https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social" />, and has been leading the development of it since 2022.
 
-<span style="color:red">In July 2025, I will join East China Normal University (华东师范大学) as a tenure-track Associate Professor (副教授).</span>
+<span style="color:red">In July 2025, I will join East China Normal University (华东师范大学) as a tenure-track Associate Professor (准聘副教授).</span>

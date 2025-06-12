@@ -29,7 +29,7 @@
 
 ## ⚽️ Rotated Object Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2022</div><img src='images/2025_TGRS_AirSpatialBot.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/2022_ACM_MM_MMRotate.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MMRotate: A rotated object detection benchmark using pytorch](https://arxiv.org/abs/2204.13317) \\
