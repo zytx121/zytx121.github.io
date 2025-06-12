@@ -3,7 +3,6 @@ Yue Zhou is now working as a Research Fellow at [S-Lab](https://www.ntu.edu.sg/s
 Previously, he received his PhD degree at the Department of Electronic Engineering, Shanghai Jiao Tong University (上海交通大学), supervised by Professor [Xue Jiang (姜雪)](https://sp.sjtu.edu.cn/). 
 He also works closely with [Xue Yang (杨学)](https://yangxue0827.github.io/), focusing on rotated object detection and SAR ship detection tasks. Before that, he received his bachelor degree at the School of Information and Communication, Beijing University of Posts and Telecommunications (北京邮电大学). 
 
-His main works lie in rotated object detection and SAR ship detection. He led the initial release of [MMRotate](https://github.com/open-mmlab/mmrotate) <img src="https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social" />, and has been leading the development of it since 2022.
+His main works lie in remote sensing vision language models, UAV-based agent and rotated object detection. He led the initial release of [MMRotate](https://github.com/open-mmlab/mmrotate) <img src="https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social" />, and has been leading the development of it since 2022.
 
-
-<!-- My research interest includes remote sensing vision language models, UAV-based agent and rotated object detection. I have published 30+ papers <a href='https://scholar.google.com/citations?user=v-aQ8GsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzytx121%2Fzytx121.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI journals and conferences such as TGRS, ACM'MM, ICLR, CVPR.  -->
+<span style="color:red">In July 2025, I will join East China Normal University (ECNU) as a tenure-track Associate Professor (副教授).</span>
