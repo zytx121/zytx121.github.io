@@ -4,5 +4,5 @@ His main works lie in remote sensing vision language models, UAV-based agent and
 
 <span style="color:red">In July 2025, I will join East China Normal University (华东师范大学) as a tenure-track Associate Professor (准聘副教授).</span>
 
-<span style="color:red">我正在寻找自驱力较强的学生、实习生，与上海交通大学严骏驰教授团队的[杨学助理教授](https://yangxue0827.github.io/)共同指导，目标是在无人机空间智能、多模态模型、对抗攻击、遥感影像解译等课题上做出有影响力的工作。请随时通过电子邮件与我联系。</span>
+<span style="color:red">我正在寻找自驱力较强的学生、实习生，与上海交通大学严骏驰教授团队的[杨学教授](https://yangxue0827.github.io/)共同指导，目标是在无人机空间智能、多模态模型、对抗攻击、遥感影像解译等课题上做出有影响力的工作。请随时通过电子邮件与我联系。</span>
 <span style="color:red">Looking for self-motivated students, interns to join us, co-supervised by Assistant Prof. [Xue Yang](https://yangxue0827.github.io/) from Professor Yan Junchi's team at Shanghai Jiao Tong University, with the goal of doing impactful work on the topic of UAV-based Space Intelligence, Vision-Language Models, Adversarial Attack, Remote Sensing (AI4RS), etc. Please do not hesitate to contact me via email.</span>
