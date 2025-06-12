@@ -3,21 +3,19 @@
 
 ## 🎙 Large Vision Language Models
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/AirSpatialBot-min.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://arxiv.org/abs/2105.02446) \\
 **Yue Zhou**, Ran Ding, Xue Yang, Xue Jiang, Xingzhao Liu
 
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
+- The first remote sensing large vision language model with 3D visual grounding capability.
 
-- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
+- [**Project**](https://github.com/VisionXLab/AirSpatialBot) \| [![](https://img.shields.io/github/stars/VisionXLab/AirSpatialBot?style=social&label=Code+Stars)](https://github.com/VisionXLab/AirSpatialBot) 
 </div>
-</div> -->
+</div>
 
 
-- `TGRS 2025` [AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://ieeexplore.ieee.org/document/11006099), **Yue Zhou**, Ran Ding, et al. [![](https://img.shields.io/github/stars/VisionXLab/AirSpatialBot?style=social&label=Code+Stars)](https://github.com/VisionXLab/AirSpatialBot)
 - `IGARSS 2025` [AirAgent: An assistant for zero-shot fine-grained target attribute recognition in aerial imagery](https://ieeexplore.ieee.org/document/11006099), Ran Ding, **Yue Zhou**, et al.
 - `ICLR 2025` [Text4Seg: Reimagining Image Segmentation as Text Generation](https://arxiv.org/abs/2410.09855), Mengcheng Lan, Chaofeng Chen, **Yue Zhou**, et al. [![](https://img.shields.io/github/stars/mc-lan/Text4Seg?style=social&label=Code+Stars)](https://github.com/mc-lan/Text4Seg)
 - `arXiv 2024` [GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding](https://arxiv.org/abs/2304.04403), **Yue Zhou**, Mengcheng Lan, Xiang Li, Litong Feng, Yiping Ke, Xue Jiang, Qingyun Li, Xue Yang, Wayne Zhang. [![](https://img.shields.io/github/stars/VisionXLab/GeoGround?style=social&label=Code+Stars)](https://github.com/VisionXLab/GeoGround)
