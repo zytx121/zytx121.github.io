@@ -15,5 +15,9 @@
 - *2020.09 - 2021.06*, Intel Asia R&D Center, Shanghai.
 - *2019.07 - 2020.05*, Tencent YouTu Lab, Shanghai.
 
+# 🎵 Open Source Project
+
+- JE: A harmonica score library [![](https://img.shields.io/github/stars/zytx121/je?style=social&label=Code+Stars)](https://github.com/zytx121/je)
+
 # 👣 Visitor Track
 <a href="https://clustrmaps.com/site/1bw31"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Dz2WKzeH_f-bhlf4P1GUyy66xVmeZ27SfvNlGz7cOhI&cl=ffffff" /></a>
