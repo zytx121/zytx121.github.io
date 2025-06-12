@@ -29,7 +29,18 @@
 
 ## ⚽️ Rotated Object Detection
 
-- `MM 2022` [MMRotate: A rotated object detection benchmark using pytorch](https://ieeexplore.ieee.org/abstract/document/9947220), **Yue Zhou**, Xue Yang, et al. [![](https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social&label=Code+Stars)](https://github.com/open-mmlab/mmrotate)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2022</div><img src='https://user-images.githubusercontent.com/10410257/154433305-416d129b-60c8-44c7-9ebb-5ba106d3e9d5.MP4' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MMRotate: A rotated object detection benchmark using pytorch](https://arxiv.org/abs/2204.13317) \\
+**Yue Zhou**, Xue Yang, Gefan Zhang, Jiabao Wang, Yanyi Liu, Liping Hou, Xue Jiang, Xingzhao Liu, Junchi Yan, Chengqi Lyu, Wenwei Zhang, Kai Chen
+
+- The first unified rotated object detection toolbox and benchmark.
+
+- [**Project**](https://github.com/open-mmlab/mmrotate) \| [![](https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social&label=Code+Stars)](https://github.com/open-mmlab/mmrotate)
+</div>
+</div>
+
 - `NeurIPS 2023` [H2rbox-v2: Boosting hbox-supervised oriented object detection via symmetric learning](https://arxiv.org/abs/2304.04403), Yi Yu, Xue Yang, Qingyun Li, **Yue Zhou**, et al. [**Project**](https://github.com/open-mmlab/mmrotate/tree/1.x/configs/h2rbox_v2)
 - `ICLR 2023` [The KFIoU loss for rotated object detection](https://arxiv.org/abs/2201.12558), Xue Yang, **Yue Zhou**, et al. [**Project**](https://github.com/open-mmlab/mmrotate/tree/1.x/configs/kfiou)
 - `ICLR 2023` [H2RBox: Horizonal box annotation is all you need for oriented object detection](https://arxiv.org/abs/2210.06742), Xue Yang, Gefan Zhang, Wentong Li, Xuehui Wang, **Yue Zhou**, et al. [**Project**](https://github.com/open-mmlab/mmrotate/tree/1.x/configs/h2rbox)
