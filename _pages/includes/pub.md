@@ -29,7 +29,10 @@
 
 ## ⚽️ Rotated Object Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2022</div><img src='https://user-images.githubusercontent.com/10410257/154433305-416d129b-60c8-44c7-9ebb-5ba106d3e9d5.MP4' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2022</div>
+<video width="100%" controls autoplay muted>
+    <source src="https://user-images.githubusercontent.com/10410257/154433305-416d129b-60c8-44c7-9ebb-5ba106d3e9d5.MP4" type="video/mp4">
+</video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MMRotate: A rotated object detection benchmark using pytorch](https://arxiv.org/abs/2204.13317) \\
