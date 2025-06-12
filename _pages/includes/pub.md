@@ -46,6 +46,7 @@
 
 ## 🚢 SAR Automatic Target Recognition
 
+- `TIM 2025` [Integrating Local and Global Features via CNN and Mamba for Semi-Supervised Change Detection](https://ieeexplore.ieee.org/abstract/document/11018868), Ze Zhang, **Yue Zhou**, et al.
 - `GRSL 2023` [GRD: An ultra-lightweight SAR ship detector based on global relationship distillation](https://ieeexplore.ieee.org/abstract/document/10210289), **Yue Zhou**, Xue Jiang, et al.
 - `RS 2021` [SAR ship detection dataset (SSDD): Official release and comprehensive data analysis](https://www.mdpi.com/2072-4292/13/18/3690), Tianwen Zhang, Xiaoling Zhang, Jianwei Li, Xiaowo Xu, Baoyou Wang, Xu Zhan, Yanqin Xu, Xiao Ke, Tianjiao Zeng, Hao Su, Israr Ahmad, Dece Pan, Chang Liu, **Yue Zhou**, et al. [![](https://img.shields.io/github/stars/TianwenZhang0825/Official-SSDD?style=social&label=Code+Stars)](https://github.com/TianwenZhang0825/Official-SSDD)
 - `GARSS 2020` [SAR Target Classification with Limited Data via Data Driven Active Learning](https://ieeexplore.ieee.org/abstract/document/9324364), **Yue Zhou**, Xue Jiang, et al.
