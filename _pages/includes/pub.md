@@ -3,7 +3,7 @@
 
 ## 🎙 Large Vision Language Models
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/AirSpatialBot-min.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/2025_TGRS_AirSpatialBot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://arxiv.org/abs/2105.02446) \\
@@ -29,16 +29,13 @@
 
 ## ⚽️ Rotated Object Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2022</div>
-<video width="100%" controls autoplay muted>
-    <source src="https://user-images.githubusercontent.com/10410257/154433305-416d129b-60c8-44c7-9ebb-5ba106d3e9d5.MP4" type="video/mp4">
-</video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2022</div><img src='images/2025_TGRS_AirSpatialBot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MMRotate: A rotated object detection benchmark using pytorch](https://arxiv.org/abs/2204.13317) \\
-**Yue Zhou**, Xue Yang, Gefan Zhang, Jiabao Wang, Yanyi Liu, Liping Hou, Xue Jiang, Xingzhao Liu, Junchi Yan, Chengqi Lyu, Wenwei Zhang, Kai Chen
+**Yue Zhou**, Xue Yang, et al. <span style="color:red">(Oral)</span>
 
-- The first unified rotated object detection toolbox and benchmark.
+- A unified rotated object detection toolbox and benchmark.
 
 - [**Project**](https://github.com/open-mmlab/mmrotate) \| [![](https://img.shields.io/github/stars/open-mmlab/mmrotate?style=social&label=Code+Stars)](https://github.com/open-mmlab/mmrotate)
 </div>
