@@ -8,7 +8,7 @@
 
 # 🎓 Academic Service
 - *Conference Reviewer*: MM'2025, ICCV'2025, CVPR'2025, ICLR'2024-2025, IGARSS'2024-2025, NeurIPS'2023-2025.
-- *Journal Reviewer*: GRSM, TIP, TGRS, TCSVT, GRSL, JSTARS, RS, GSIS.
+- *Journal Reviewer*: GRSM, TIP, TGRS, TCSVT, JSTARS, GRSL, RS, GSIS.
 
 # 💻 Internships
 - *2022.02 - 2023.02*, Shanghai AI Lab, Shanghai.
@@ -17,7 +17,7 @@
 
 # 🎵 Open Source Project
 
-- JE: A harmonica score library [![](https://img.shields.io/github/stars/zytx121/je?style=social&label=Code+Stars)](https://github.com/zytx121/je)
+- JE: A harmonica score library for ACG music [![](https://img.shields.io/github/stars/zytx121/je?style=social&label=Code+Stars)](https://github.com/zytx121/je)
 
 # 👣 Visitor Track
 <a href="https://clustrmaps.com/site/1bw31"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Dz2WKzeH_f-bhlf4P1GUyy66xVmeZ27SfvNlGz7cOhI&cl=ffffff" /></a>
