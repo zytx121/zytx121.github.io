@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.06*: 🎉 A collaborative paper on cloud Removal is accepted by <b>JSTARS</b>
 - *2025.05*: 🎉 A collaborative paper on semi-supervised change detection is accepted by <b>TIM</b>
 - *2025.05*: 🎉 A collaborative paper on point-supervised oriented object detection (Pointobb-v3) is accepted by <b>IJCV</b>
 - *2025.05*: 🎉 One paper on Spatially-Aware Aerial Agent (AirSpatialBot) is accepted by <b>TGRS</b>
