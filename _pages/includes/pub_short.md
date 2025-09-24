@@ -5,6 +5,7 @@ My full paper list is shown at [my personal homepage](https://zytx121.github.io)
 
 ## 🎙 Large Vision Language Models
 
+- `ISPRS JPRS 2025` [Multimodal Mathematical Reasoning Embedded in Aerial Vehicle Imagery: Benchmarking, Analysis, and Exploration](https://arxiv.org/abs/2509.10059), **Yue Zhou**, Litong Feng, Mengcheng Lan, et al. [![](https://img.shields.io/github/stars/VisionXLab/avi-math?style=social&label=Code+Stars)](https://github.com/VisionXLab/avi-math)
 - `TGRS 2025` [AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://ieeexplore.ieee.org/document/11006099), **Yue Zhou**, Ran Ding, et al. [![](https://img.shields.io/github/stars/VisionXLab/AirSpatialBot?style=social&label=Code+Stars)](https://github.com/VisionXLab/AirSpatialBot)
 - `IGARSS 2025` [AirAgent: An assistant for zero-shot fine-grained target attribute recognition in aerial imagery](https://ieeexplore.ieee.org/document/11006099), Ran Ding, **Yue Zhou**, et al.
 - `ICLR 2025` [Text4Seg: Reimagining Image Segmentation as Text Generation](https://arxiv.org/abs/2410.09855), Mengcheng Lan, Chaofeng Chen, **Yue Zhou**, et al. [![](https://img.shields.io/github/stars/mc-lan/Text4Seg?style=social&label=Code+Stars)](https://github.com/mc-lan/Text4Seg)
