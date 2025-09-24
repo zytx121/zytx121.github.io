@@ -3,6 +3,18 @@
 
 ## 🎙 Large Vision Language Models
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS JPRS 2025</div><img src='images/2025_ISPRS_AVI_Math.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal Mathematical Reasoning Embedded in Aerial Vehicle Imagery: Benchmarking, Analysis, and Exploration](https://arxiv.org/abs/2509.10059) \\
+**Yue Zhou**, Litong Feng, Mengcheng Lan, Xue Yang, Qingyun Li, Yiping Ke, Xue Jiang, Wayne Zhang
+
+- The first remote sensing multimodal mathematical reasoning benchmark.
+
+- [**Project**](https://github.com/VisionXLab/avi-math) \| [![](https://img.shields.io/github/stars/VisionXLab/avi-math?style=social&label=Code+Stars)](https://github.com/VisionXLab/avi-math) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/2025_TGRS_AirSpatialBot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
