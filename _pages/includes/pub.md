@@ -18,7 +18,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/2025_TGRS_AirSpatialBot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://arxiv.org/abs/2105.02446) \\
+[AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval](https://ieeexplore.ieee.org/document/11006099) \\
 **Yue Zhou**, Ran Ding, Xue Yang, Xue Jiang, Xingzhao Liu
 
 - The first remote sensing large vision language model with 3D visual grounding capability.
@@ -30,7 +30,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/2024_arxiv_geoground.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding](https://arxiv.org/abs/2105.02446) \\
+[GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding](https://arxiv.org/abs/2411.11904) \\
 **Yue Zhou**, Mengcheng Lan, Xiang Li, Litong Feng, Yiping Ke, Xue Jiang, Qingyun Li, Xue Yang, Wayne Zhang
 
 - [**Project**](https://github.com/VisionXLab/GeoGround) \| [![](https://img.shields.io/github/stars/VisionXLab/GeoGround?style=social&label=Code+Stars)](https://github.com/VisionXLab/GeoGround)
