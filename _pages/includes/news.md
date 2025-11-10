@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.11*: 🎉 A collaborative paper on oriented object detection is accepted by <b>AAAI</b>
 - *2025.09*: 🎉 One paper on Multimodal Mathematical Reasoning in Aerial Vehicle Imagery (AVI-Math) is accepted by <b>ISPRS JPRS</b>
 - *2025.07*: 🎉 2nd place in Large Model Adversarial Challenge of <a href="https://baijiahao.baidu.com/s?id=1840411734732597337&wfr=spider&for=pc" target="_blank">QiZhi Cup (启智杯)</a>
 - *2025.06*: 🎉 A collaborative paper on cloud Removal is accepted by <b>JSTARS</b>
