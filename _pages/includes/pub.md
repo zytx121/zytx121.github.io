@@ -7,7 +7,7 @@
 <div class='paper-box-text' markdown="1">
 
 [DVGBench: Implicit-to-Explicit Visual Grounding Benchmark in UAV Imagery with Large Vision-Language Models](https://arxiv.org/abs/2601.00998) \\
-**Yue Zhou**, Jue Chen, Zilun Zhang, Penghui Huang, Ran Ding, Zhentao Zou, PengFei Gao, Yuchen Wei, Ke Li, Xue Yang, Jiang Xue, Hongxin Yang, Jonathan Li,
+**Yue Zhou**, Jue Chen, Zilun Zhang, Penghui Huang, Ran Ding, Zhentao Zou, PengFei Gao, Yuchen Wei, Ke Li, Xue Yang, Jiang Xue, Hongxin Yang*, Jonathan Li
 
 - The first UAV implicit visual grounding benchmark.
 
