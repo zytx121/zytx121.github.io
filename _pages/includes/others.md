@@ -1,5 +1,5 @@
 # ⌚️ Work Experience
-- *2024.06 - now*, Associate Professor, DREAMS Lab, East China Normal University, Shanghai.
+- *2025.06 - now*, Associate Professor, DREAMS Lab, East China Normal University, Shanghai.
 - *2024.06 - 2025.06*, Research Fellow, S-Lab, Nanyang Technological University, Singapore.
 - *2024.01 - 2024.06*, Postdoctor, Shanghai Jiao Tong University, Shanghai.
 
