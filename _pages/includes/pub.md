@@ -3,6 +3,18 @@
 
 ## 🎙 Large Vision Language Models
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS JPRS 2026</div><img src='images/2026_ISPRS_DVGBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DVGBench: Implicit-to-Explicit Visual Grounding Benchmark in UAV Imagery with Large Vision-Language Models](https://arxiv.org/abs/2601.00998) \\
+**Yue Zhou**, Jue Chen, Zilun Zhang, Penghui Huang, Ran Ding, Zhentao Zou, PengFei Gao, Yuchen Wei, Ke Li, Xue Yang, Jiang Xue, Hongxin Yang, Jonathan Li,
+
+- The first UAV implicit visual grounding benchmark.
+
+- [**Project**](https://github.com/VisionXLab/DVGBench) \| [![](https://img.shields.io/github/stars/VisionXLab/DVGBench?style=social&label=Code+Stars)](https://github.com/VisionXLab/DVGBench) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS JPRS 2025</div><img src='images/2025_ISPRS_AVI_Math.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
