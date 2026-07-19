@@ -1,3 +1,3 @@
-# 📎 Homepages
-- Personal Pages: https://zytx121.github.io (updated recently🔥)
+# 🔗 Profiles
+- Personal homepage: https://zhouyue.space
 - Google Scholar: https://scholar.google.com/citations?user=v-aQ8GsAAAAJ

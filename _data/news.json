@@ -1,0 +1,86 @@
+[
+  {
+    "id": "2026-05-grsm-survey",
+    "date": "2026-05",
+    "text": "Our survey on remote sensing vision-language models was accepted by **IEEE GRSM**.",
+    "url": "https://github.com/zytx121/Awesome-RS-VL-Data",
+    "type": "publication"
+  },
+  {
+    "id": "2026-05-tgrs-restoration",
+    "date": "2026-05",
+    "text": "A collaborative paper on image restoration was accepted by **IEEE TGRS**.",
+    "url": null,
+    "type": "publication"
+  },
+  {
+    "id": "2026-04-jstars-change-detection",
+    "date": "2026-04",
+    "text": "A collaborative paper on semi-supervised change detection was accepted by **IEEE JSTARS**.",
+    "url": null,
+    "type": "publication"
+  },
+  {
+    "id": "2026-03-igarss-uav-spatial-awareness",
+    "date": "2026-03",
+    "text": "Our paper on spatial awareness for UAVs was accepted by **IEEE IGARSS (Oral)**.",
+    "url": null,
+    "type": "publication"
+  },
+  {
+    "id": "2026-02-isprs-uav-visual-grounding",
+    "date": "2026-02",
+    "text": "Our paper on visual grounding in UAV imagery was accepted by the **ISPRS Congress**.",
+    "url": null,
+    "type": "publication"
+  },
+  {
+    "id": "2026-02-cvpr-oriented-detection",
+    "date": "2026-02",
+    "text": "A collaborative paper on oriented object detection was accepted by **CVPR**.",
+    "url": null,
+    "type": "publication"
+  },
+  {
+    "id": "2026-01-awesome-rs-vl-data",
+    "date": "2026-01",
+    "text": "We released the **Awesome Remote Sensing Vision-Language Datasets** project.",
+    "url": "https://github.com/zytx121/Awesome-RS-VL-Data",
+    "type": "release"
+  },
+  {
+    "id": "2026-01-dvgbench-isprs-jprs",
+    "date": "2026-01",
+    "text": "Our paper on implicit-to-explicit chain-of-thought in UAV imagery, **DVGBench**, was accepted by **ISPRS JPRS**.",
+    "url": "https://arxiv.org/abs/2601.00998",
+    "type": "publication"
+  },
+  {
+    "id": "2025-11-aaai-oriented-detection",
+    "date": "2025-11",
+    "text": "A collaborative paper on oriented object detection was accepted by **AAAI**.",
+    "url": null,
+    "type": "publication"
+  },
+  {
+    "id": "2025-09-avi-math-isprs-jprs",
+    "date": "2025-09",
+    "text": "Our paper on multimodal mathematical reasoning in aerial vehicle imagery, **AVI-Math**, was accepted by **ISPRS JPRS**.",
+    "url": "https://arxiv.org/abs/2509.10059",
+    "type": "publication"
+  },
+  {
+    "id": "2025-07-qizhi-cup",
+    "date": "2025-07",
+    "text": "We won second place in the Large Model Adversarial Challenge of the **QiZhi Cup (启智杯)**.",
+    "url": "https://baijiahao.baidu.com/s?id=1840411734732597337&wfr=spider&for=pc",
+    "type": "award"
+  },
+  {
+    "id": "2025-06-jstars-cloud-removal",
+    "date": "2025-06",
+    "text": "A collaborative paper on cloud removal was accepted by **IEEE JSTARS**.",
+    "url": null,
+    "type": "publication"
+  }
+]

@@ -1,0 +1,474 @@
+[
+  {
+    "id": "vlgfm-survey",
+    "year": 2026,
+    "venue": "IEEE GRSM",
+    "title": "Towards Vision-Language Geo-Foundation Model: A Survey",
+    "authors": "**Yue Zhou**, Zhihang Zhong, Xue Yang",
+    "topics": ["vision-language"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2406.09385",
+      "project": "https://github.com/zytx121/Awesome-VLGFM"
+    },
+    "featured": false
+  },
+  {
+    "id": "dvgbench",
+    "year": 2026,
+    "venue": "ISPRS JPRS",
+    "title": "DVGBench: Implicit-to-Explicit Visual Grounding Benchmark in UAV Imagery with Large Vision-Language Models",
+    "authors": "**Yue Zhou**, Jue Chen, Zilun Zhang, Penghui Huang, Ran Ding, Zhentao Zou, PengFei Gao, Yuchen Wei, Ke Li, Xue Yang, Xue Jiang, Hongxin Yang, Jonathan Li",
+    "topics": ["vision-language"],
+    "summary": "The first UAV implicit visual grounding benchmark, with explicit and implicit queries across six real-world application scenarios.",
+    "image": "/images/2026_ISPRS_DVGBench.png",
+    "image_alt": "Comparison of standard GRPO and implicit-to-explicit chain-of-thought, with attention curves and UAV-image heatmaps.",
+    "image_width": 1656,
+    "image_height": 980,
+    "links": {
+      "paper": "https://arxiv.org/abs/2601.00998",
+      "project": "https://github.com/VisionXLab/DVGBench",
+      "dataset": "https://huggingface.co/datasets/erenzhou/DVGBench"
+    },
+    "featured": true
+  },
+  {
+    "id": "avi-math",
+    "year": 2025,
+    "venue": "ISPRS JPRS",
+    "title": "Multimodal Mathematical Reasoning Embedded in Aerial Vehicle Imagery: Benchmarking, Analysis, and Exploration",
+    "authors": "**Yue Zhou**, Litong Feng, Mengcheng Lan, Xue Yang, Qingyun Li, Yiping Ke, Xue Jiang, Wayne Zhang",
+    "topics": ["vision-language"],
+    "summary": "The first benchmark dedicated to multimodal mathematical reasoning in aerial vehicle imagery.",
+    "image": "/images/2025_ISPRS_AVI_Math.png",
+    "image_alt": "UAV geometry diagram and a worked vehicle-distance reasoning conversation for the AVI-Math benchmark.",
+    "image_width": 1267,
+    "image_height": 492,
+    "links": {
+      "paper": "https://arxiv.org/abs/2509.10059",
+      "project": "https://github.com/VisionXLab/avi-math",
+      "dataset": "https://huggingface.co/datasets/erenzhou/AVI-Math"
+    },
+    "featured": true
+  },
+  {
+    "id": "airspatialbot",
+    "year": 2025,
+    "venue": "IEEE TGRS",
+    "title": "AirSpatialBot: A Spatially-Aware Aerial Agent for Fine-Grained Vehicle Attribute Recognization and Retrieval",
+    "authors": "**Yue Zhou**, Ran Ding, Xue Yang, Xue Jiang, Xingzhao Liu",
+    "topics": ["vision-language"],
+    "summary": "A remote sensing vision-language model and aerial agent with 3D visual grounding and spatial reasoning capabilities.",
+    "image": "/images/2025_TGRS_AirSpatialBot-poster.webp",
+    "image_alt": "AirSpatial point-cloud scenes captured around roads, buildings, and parking areas from an aerial viewpoint.",
+    "image_width": 720,
+    "image_height": 468,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/11006099",
+      "project": "https://github.com/VisionXLab/AirSpatialBot",
+      "dataset": "https://huggingface.co/datasets/erenzhou/AirSpatial",
+      "animation": "/images/2025_TGRS_AirSpatialBot.gif"
+    },
+    "featured": true
+  },
+  {
+    "id": "airagent",
+    "year": 2025,
+    "venue": "IEEE IGARSS",
+    "title": "AirAgent: An Assistant for Zero-Shot Fine-Grained Target Attribute Recognition in Aerial Imagery",
+    "authors": "Ran Ding, **Yue Zhou**, Xue Jiang, Xingzhao Liu",
+    "topics": ["vision-language"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/11244007"
+    },
+    "featured": false
+  },
+  {
+    "id": "text4seg",
+    "year": 2025,
+    "venue": "ICLR",
+    "title": "Text4Seg: Reimagining Image Segmentation as Text Generation",
+    "authors": "Mengcheng Lan, Chaofeng Chen, **Yue Zhou**, Jiaxing Xu, Yiping Ke, Xinjiang Wang, Litong Feng, Wayne Zhang",
+    "topics": ["vision-language"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2410.09855",
+      "code": "https://github.com/mc-lan/Text4Seg"
+    },
+    "featured": false
+  },
+  {
+    "id": "cnn-mamba-change-detection",
+    "year": 2025,
+    "venue": "IEEE TIM",
+    "title": "Integrating Local and Global Features via CNN and Mamba for Semi-Supervised Change Detection",
+    "authors": "Ze Zhang, **Yue Zhou**, et al.",
+    "topics": ["sar-recognition"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/11018868"
+    },
+    "featured": false
+  },
+  {
+    "id": "geoground",
+    "year": 2024,
+    "venue": "arXiv",
+    "title": "GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding",
+    "authors": "**Yue Zhou**, Mengcheng Lan, Xiang Li, Litong Feng, Yiping Ke, Xue Jiang, Qingyun Li, Xue Yang, Wayne Zhang",
+    "topics": ["vision-language"],
+    "summary": "A unified remote sensing visual grounding framework supporting horizontal boxes, oriented boxes, and segmentation masks.",
+    "image": "/images/2024_arxiv_geoground.png",
+    "image_alt": "GeoGround architecture showing horizontal-box, oriented-box, detection, and segmentation responses to remote sensing queries.",
+    "image_width": 1424,
+    "image_height": 694,
+    "links": {
+      "paper": "https://arxiv.org/abs/2411.11904",
+      "project": "https://github.com/VisionXLab/GeoGround",
+      "dataset": "https://huggingface.co/datasets/erenzhou/refGeo"
+    },
+    "featured": true
+  },
+  {
+    "id": "robust-land-cover-distillation",
+    "year": 2024,
+    "venue": "IEEE TGRS",
+    "title": "Robust Land Cover Classification With Multimodal Knowledge Distillation",
+    "authors": "Guozheng Xu, Xue Jiang, **Yue Zhou**, Shutao Li, Xingzhao Liu, Peiwen Lin",
+    "topics": ["sar-recognition"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/10365203"
+    },
+    "featured": false
+  },
+  {
+    "id": "dga",
+    "year": 2024,
+    "venue": "IEEE TGRS",
+    "title": "DGA: Direction-Guided Attack Against Optical Aerial Detection in Camera Shooting Direction-Agnostic Scenarios",
+    "authors": "**Yue Zhou**, Shuqi Sun, Xue Jiang, Guozheng Xu, Fengyuan Hu, Ze Zhang, Xingzhao Liu",
+    "topics": ["adversarial-attack"],
+    "summary": "A direction-guided physical adversarial attack designed to remain effective across aerial-camera shooting directions.",
+    "image": "/images/2024_TGRS_DGA.png",
+    "image_alt": "DGA pipeline for applying direction-aware adversarial patches to cars and evaluating them in digital and physical settings.",
+    "image_width": 1726,
+    "image_height": 972,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/10497142",
+      "project": "https://github.com/zytx121/DGA"
+    },
+    "featured": true
+  },
+  {
+    "id": "alpharotate",
+    "year": 2024,
+    "venue": "ICASSP",
+    "title": "AlphaRotate: A Rotation Detection Benchmark using TensorFlow",
+    "authors": "Xue Yang, **Yue Zhou**, Junchi Yan",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2111.06677",
+      "code": "https://github.com/yangxue0827/RotationDetection"
+    },
+    "featured": false
+  },
+  {
+    "id": "camonet",
+    "year": 2023,
+    "venue": "Remote Sensing",
+    "title": "CamoNet: A Target Camouflage Network for Remote Sensing Images Based on Adversarial Attack",
+    "authors": "**Yue Zhou**, Wanghan Jiang, Xue Jiang, Lin Chen, Xingzhao Liu",
+    "topics": ["adversarial-attack"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://www.mdpi.com/2072-4292/15/21/5131"
+    },
+    "featured": false
+  },
+  {
+    "id": "adversarial-example-generation",
+    "year": 2023,
+    "venue": "IEEE IGARSS",
+    "title": "Adversarial Example Generation Method for Object Detection in Remote Sensing Images",
+    "authors": "Wanghan Jiang, **Yue Zhou**, Xue Jiang",
+    "topics": ["adversarial-attack"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/10281657"
+    },
+    "featured": false
+  },
+  {
+    "id": "kfiou",
+    "year": 2023,
+    "venue": "ICLR",
+    "title": "The KFIoU Loss for Rotated Object Detection",
+    "authors": "Xue Yang, **Yue Zhou**, Gefan Zhang, Jirui Yang, Wentao Wang, Junchi Yan, Xiaopeng Zhang, Qi Tian",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2201.12558",
+      "project": "https://github.com/open-mmlab/mmrotate/tree/1.x/configs/kfiou"
+    },
+    "featured": false
+  },
+  {
+    "id": "h2rbox-v2",
+    "year": 2023,
+    "venue": "NeurIPS",
+    "title": "H2RBox-v2: Incorporating Symmetry for Boosting Horizontal Box Supervised Oriented Object Detection",
+    "authors": "Yi Yu, Xue Yang, Qingyun Li, **Yue Zhou**, Gefan Zhang, Feipeng Da, Junchi Yan",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2304.04403",
+      "project": "https://github.com/open-mmlab/mmrotate/tree/1.x/configs/h2rbox_v2"
+    },
+    "featured": false
+  },
+  {
+    "id": "h2rbox",
+    "year": 2023,
+    "venue": "ICLR",
+    "title": "H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection",
+    "authors": "Xue Yang, Gefan Zhang, Wentong Li, Xuehui Wang, **Yue Zhou**, Junchi Yan",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2210.06742",
+      "project": "https://github.com/open-mmlab/mmrotate/tree/1.x/configs/h2rbox"
+    },
+    "featured": false
+  },
+  {
+    "id": "semi-supervised-sar-ship",
+    "year": 2023,
+    "venue": "IEEE JSTARS",
+    "title": "A Semi-Supervised Arbitrary-Oriented SAR Ship Detection Network Based on Interference Consistency Learning and Pseudo Label Calibration",
+    "authors": "**Yue Zhou**, Xue Jiang, Zeming Chen, Lin Chen, Xingzhao Liu",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/10147338"
+    },
+    "featured": false
+  },
+  {
+    "id": "gaussian-rotated-objects",
+    "year": 2023,
+    "venue": "IEEE TPAMI",
+    "title": "Detecting Rotated Objects as Gaussian Distributions and Its 3-D Generalization",
+    "authors": "Xue Yang, Gefan Zhang, Xiaojiang Yang, **Yue Zhou**, Wentao Wang, Jin Tang, Tao He, Junchi Yan",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/9852282"
+    },
+    "featured": false
+  },
+  {
+    "id": "pvt-sar",
+    "year": 2023,
+    "venue": "IEEE JSTARS",
+    "title": "PVT-SAR: An Arbitrarily Oriented SAR Ship Detector With Pyramid Vision Transformer",
+    "authors": "**Yue Zhou**, Xue Jiang, Guozheng Xu, Xue Yang, Xingzhao Liu, Zhou Li",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/9947220"
+    },
+    "featured": false
+  },
+  {
+    "id": "grd",
+    "year": 2023,
+    "venue": "IEEE GRSL",
+    "title": "GRD: An Ultra-Lightweight SAR Ship Detector Based on Global Relationship Distillation",
+    "authors": "**Yue Zhou**, Xue Jiang, et al.",
+    "topics": ["sar-recognition"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/10210289"
+    },
+    "featured": false
+  },
+  {
+    "id": "mmrotate",
+    "year": 2022,
+    "venue": "ACM MM",
+    "title": "MMRotate: A Rotated Object Detection Benchmark using PyTorch",
+    "authors": "**Yue Zhou**, Xue Yang, Gefan Zhang, Jiabao Wang, Yanyi Liu, Liping Hou, Xue Jiang, Xingzhao Liu, Junchi Yan, Chengqi Lyu, Wenwei Zhang, Kai Chen",
+    "topics": ["rotated-detection"],
+    "summary": "A unified open-source toolbox and benchmark for rotated object detection.",
+    "image": "/images/2022_ACM_MM_MMRotate-poster.webp",
+    "image_alt": "Animated MMRotate detection results over an aerial road interchange, with oriented boxes around vehicles and buildings.",
+    "image_width": 400,
+    "image_height": 225,
+    "links": {
+      "paper": "https://arxiv.org/abs/2204.13317",
+      "project": "https://github.com/open-mmlab/mmrotate",
+      "animation": "/images/2022_ACM_MM_MMRotate.gif"
+    },
+    "featured": true,
+    "note": "Oral"
+  },
+  {
+    "id": "rtmdet",
+    "year": 2022,
+    "venue": "arXiv",
+    "title": "RTMDet: An Empirical Study of Designing Real-Time Object Detectors",
+    "authors": "Chengqi Lyu, Wenwei Zhang, Haian Huang, **Yue Zhou**, Yudong Wang, Yanyi Liu, Shilong Zhang, Kai Chen",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://arxiv.org/abs/2212.07784",
+      "project": "https://github.com/open-mmlab/mmrotate/tree/1.x/configs/rotated_rtmdet"
+    },
+    "featured": false
+  },
+  {
+    "id": "sar-ship-benchmark",
+    "year": 2022,
+    "venue": "IEEE IGARSS",
+    "title": "Benchmark for Arbitrary-Oriented SAR Ship Detection",
+    "authors": "**Yue Zhou**, Xue Jiang, et al.",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/9884501"
+    },
+    "featured": false
+  },
+  {
+    "id": "dense-label-encoding",
+    "year": 2021,
+    "venue": "CVPR",
+    "title": "Dense Label Encoding for Boundary Discontinuity Free Rotation Detection",
+    "authors": "Xue Yang, Liping Hou, **Yue Zhou**, Wentao Wang, Junchi Yan",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Dense_Label_Encoding_for_Boundary_Discontinuity_Free_Rotation_Detection_CVPR_2021_paper.html",
+      "code": "https://github.com/yangxue0827/RotationDetection"
+    },
+    "featured": false
+  },
+  {
+    "id": "sar-frequency-learning",
+    "year": 2021,
+    "venue": "IEEE IGARSS",
+    "title": "Arbitrary-Oriented SAR Ship Detection Via Frequency Learning",
+    "authors": "**Yue Zhou**, Xue Jiang, Zhou Li, Xingzhao Liu",
+    "topics": ["rotated-detection"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/9553737"
+    },
+    "featured": false,
+    "note": "Oral"
+  },
+  {
+    "id": "ssdd",
+    "year": 2021,
+    "venue": "Remote Sensing",
+    "title": "SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis",
+    "authors": "Tianwen Zhang, Xiaoling Zhang, Jianwei Li, Xiaowo Xu, Baoyou Wang, Xu Zhan, Yanqin Xu, Xiao Ke, Tianjiao Zeng, Hao Su, Israr Ahmad, Dece Pan, Chang Liu, **Yue Zhou**, et al.",
+    "topics": ["sar-recognition"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://www.mdpi.com/2072-4292/13/18/3690",
+      "dataset": "https://github.com/TianwenZhang0825/Official-SSDD"
+    },
+    "featured": false,
+    "note": "Best Paper"
+  },
+  {
+    "id": "cnn-dictionary-sar",
+    "year": 2021,
+    "venue": "IEEE GRSL",
+    "title": "Convolutional Neural Network-Based Dictionary Learning for SAR Target Recognition",
+    "authors": "Lei Tao, **Yue Zhou**, Xue Jiang, Xingzhao Liu, Zhixin Zhou",
+    "topics": ["sar-recognition"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/9144271"
+    },
+    "featured": false
+  },
+  {
+    "id": "sar-active-learning",
+    "year": 2020,
+    "venue": "IEEE IGARSS",
+    "title": "SAR Target Classification With Limited Data via Data Driven Active Learning",
+    "authors": "**Yue Zhou**, Xue Jiang, Zhou Li, Xingzhao Liu",
+    "topics": ["sar-recognition"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://ieeexplore.ieee.org/document/9324364"
+    },
+    "featured": false
+  },
+  {
+    "id": "ls-ssdd",
+    "year": 2020,
+    "venue": "Remote Sensing",
+    "title": "LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images",
+    "authors": "Tianwen Zhang, Xiaoling Zhang, Xiao Ke, Xu Zhan, Jun Shi, Shunjun Wei, Dece Pan, Jianwei Li, Hao Su, **Yue Zhou**, et al.",
+    "topics": ["sar-recognition"],
+    "summary": null,
+    "image": null,
+    "image_alt": null,
+    "links": {
+      "paper": "https://www.mdpi.com/2072-4292/12/18/2997",
+      "dataset": "https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN"
+    },
+    "featured": false
+  }
+]

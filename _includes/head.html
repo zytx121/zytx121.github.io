@@ -1,19 +1,12 @@
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light">
 
 {% include seo.html %}
 
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  document.documentElement.classList.remove('no-js');
+  document.documentElement.classList.add('js');
 </script>
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="assets/css/main.css">
-
-<meta http-equiv="cleartype" content="on">
-<head>
-  <base target="_blank">
-</head>
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">

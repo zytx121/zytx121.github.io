@@ -1,0 +1,62 @@
+{% assign publication = include.publication %}
+{% assign primary_url = publication.links.paper | default: publication.links.project | default: publication.links.code | default: publication.links.dataset %}
+<article class="publication-card"
+         data-publication
+         data-year="{{ publication.year }}"
+         data-topics="{{ publication.topics | join: ' ' }}">
+  {% if publication.image %}
+    <div class="publication-media">
+      <img src="{{ publication.image | relative_url | escape }}"
+           width="{{ publication.image_width | default: 640 }}"
+           height="{{ publication.image_height | default: 360 }}"
+           alt="{{ publication.image_alt | default: publication.title | escape }}"
+           loading="{{ include.loading | default: 'lazy' }}"
+           decoding="async">
+      <span class="publication-badge">{{ publication.venue }} · {{ publication.year }}</span>
+    </div>
+  {% endif %}
+
+  <div class="publication-content">
+    {% unless publication.image %}
+      <p class="publication-meta">{{ publication.venue }} · {{ publication.year }}</p>
+    {% endunless %}
+
+    <h3 class="publication-title">
+      {% if primary_url %}
+        <a href="{{ primary_url | escape }}" target="_blank" rel="noopener noreferrer">{{ publication.title }}</a>
+      {% else %}
+        {{ publication.title }}
+      {% endif %}
+    </h3>
+
+    <div class="publication-authors">{{ publication.authors | markdownify }}</div>
+    {% if publication.note %}<p class="publication-note">{{ publication.note }}</p>{% endif %}
+    {% if publication.summary %}<div class="publication-summary">{{ publication.summary | markdownify }}</div>{% endif %}
+
+    {% if publication.topics %}
+      <ul class="publication-topics" aria-label="Research areas">
+        {% for topic in publication.topics %}
+          <li>
+            {% case topic %}
+              {% when 'vision-language' %}Vision-Language Models
+              {% when 'adversarial-attack' %}Adversarial Attack
+              {% when 'rotated-detection' %}Rotated Object Detection
+              {% when 'sar-recognition' %}SAR Recognition
+              {% else %}{{ topic | replace: '-', ' ' | capitalize }}
+            {% endcase %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if publication.links %}
+      <ul class="publication-links" aria-label="Links for {{ publication.title | escape }}">
+        {% if publication.links.paper %}<li><a href="{{ publication.links.paper | escape }}" target="_blank" rel="noopener noreferrer">Paper</a></li>{% endif %}
+        {% if publication.links.project %}<li><a href="{{ publication.links.project | escape }}" target="_blank" rel="noopener noreferrer">Project</a></li>{% endif %}
+        {% if publication.links.code %}<li><a href="{{ publication.links.code | escape }}" target="_blank" rel="noopener noreferrer">Code</a></li>{% endif %}
+        {% if publication.links.dataset %}<li><a href="{{ publication.links.dataset | escape }}" target="_blank" rel="noopener noreferrer">Dataset</a></li>{% endif %}
+        {% if publication.links.animation %}<li><a href="{{ publication.links.animation | relative_url | escape }}" target="_blank" rel="noopener noreferrer">Animation</a></li>{% endif %}
+      </ul>
+    {% endif %}
+  </div>
+</article>

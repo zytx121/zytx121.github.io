@@ -1,0 +1,13 @@
+{% assign news = include.news %}
+<li class="news-item{% if news.type %} news-item--{{ news.type | slugify }}{% endif %}">
+  <time class="news-date" datetime="{{ news.date }}">{{ news.date | replace: '-', '.' }}</time>
+  {% capture news_text %}{{ news.text | markdownify }}{% endcapture %}
+  <div class="news-content">{{ news_text | replace: '<a href="http', '<a rel="noopener noreferrer" href="http' }}</div>
+  {% if news.url %}
+    {% unless news.text contains news.url %}
+    <a class="news-link" href="{{ news.url | escape }}" target="_blank" rel="noopener noreferrer">
+        Details<span class="sr-only"> about this update</span>
+      </a>
+    {% endunless %}
+  {% endif %}
+</li>
