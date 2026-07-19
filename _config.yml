@@ -6,9 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yue Zhou (周越)"
-description              : "Focusing on space intelligence based on UAVs."
-repository               : "zhouyue.space"
+title                    : "Yue Zhou | 周越"
+description              : "Yue Zhou is an Associate Professor at East China Normal University, researching UAV-based spatial intelligence, remote sensing vision-language models, and oriented object detection."
+url                      : "https://zhouyue.space"
+baseurl                  : ""
+repository               : "zytx121/zytx121.github.io"
+locale                   : "en_US"
+og_image                 : "/images/og-card.png"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,11 +25,12 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Yue Zhou (周越)"
+  name             : "Yue Zhou / 周越"
   avatar           : "images/zy_profile.jpg"
-  bio              : "愿此行终抵群星"
-  location         : "Shanghai"
-  employer         : "DREAMS@ECNU"
+  bio              : "Associate Professor"
+  tagline          : "愿此行终抵群星"
+  location         : "Shanghai, China"
+  employer         : "DREAMS Lab · East China Normal University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=v-aQ8GsAAAAJ"
   email            : "yzhou@geoai.ecnu.edu.cn"
@@ -77,6 +82,7 @@ exclude:
   - Gruntfile.js
   - LICENSE
   - README
+  - README.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -88,6 +94,9 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - .github
+  - docs
+  - scripts
   - google_scholar_crawler
   - github_myprofile_updater
 keep_files:
@@ -130,7 +139,7 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
 
 # Outputting

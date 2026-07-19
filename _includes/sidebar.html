@@ -1,14 +1,20 @@
-{% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src= "{{ s.image }}" alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-  {% endif %}
-  </div>
+{% if page.author_profile != false %}
+  <aside class="profile-sidebar" aria-label="About Yue Zhou">
+    {% include author-profile.html %}
+
+    {% if page.sidebar %}
+      <div class="sidebar-extra">
+        {% for item in page.sidebar %}
+          {% if item.image %}
+            <img src="{{ item.image | relative_url }}"
+                 alt="{{ item.image_alt | default: '' | escape }}"
+                 loading="lazy"
+                 decoding="async">
+          {% endif %}
+          {% if item.title %}<h2>{{ item.title }}</h2>{% endif %}
+          {% if item.text %}{{ item.text | markdownify }}{% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </aside>
 {% endif %}
