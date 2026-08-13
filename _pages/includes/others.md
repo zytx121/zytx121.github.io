@@ -8,8 +8,8 @@
 - *2013.09 - 2017.06*, Undergraduate, Beijing University of Posts and Telecommunications, Beijing.
 
 # 🎓 Academic Service
-- *Conference Reviewer*: CVPR'2025-2026, ECCV'2026, ICCV'2025, MM'2025, ICLR'2024-2025, IGARSS'2024-2025, NeurIPS'2023-2025.
-- *Journal Reviewer*: TPAMI, GRSM, TIP, TGRS, TCSVT, JSTARS, GRSL, RS, GSIS.
+- *Conference Reviewer*: CVPR, ICLR, NeurIPS, ICCV, ECCV, MM, AAAI, IGARSS.
+- *Journal Reviewer*: TPAMI, GRSM, TIP, TII, TGRS, TCSVT, JSTARS, GRSL, RS, GSIS.
 
 # 💻 Internships
 - *2022.02 - 2023.02*, Shanghai AI Lab, Shanghai.
