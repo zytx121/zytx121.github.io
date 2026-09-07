@@ -1,5 +1,5 @@
 # 🔥 News
-
+- *2026.09*: I will serve as <b>Area Chair</b> for <b>ICLR 2027</b>
 - *2026.09*: I was selected for the Xuhui District Guangqi Talent Program [(徐汇区光启人才计划)](https://dj.xh.sh.cn/xhdj_qyrc_zc/20260831/575988.html)
 - *2026.08*: I am funded by NSFC. 🎉🎉🎉
 - *2026.05*: One [survey](https://github.com/zytx121/Awesome-RS-VL-Data) on remote sensing vision-language models is accepted by <b>IEEE GRSM</b>
