@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.09*: 🎉 A collaborative paper on AI4Science benchmark is accepted by <b>NeurIPS 2026 (Spotlight)</b>
 - *2026.09*: 🎉 A collaborative paper on visual grounding is accepted by <b>IEEE TGRS</b>
 - *2026.09*: 🎉 One survey on remote sensing geo-foundation models is accepted by <b>The Photogrammetric Record</b>
 - *2026.09*: I will serve as <b>Area Chair</b> for <b>ICLR 2027</b>
