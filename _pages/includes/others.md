@@ -10,7 +10,7 @@
 # 🎓 Academic Service
 - *Conference Area Chair*: ICLR
 - *Conference Reviewer*: CVPR, ICLR, NeurIPS, ICCV, ECCV, MM, AAAI, IGARSS.
-- *Journal Reviewer*: TPAMI, GRSM, TIP, TII, TGRS, TCSVT, JSTARS, GRSL, RS, GSIS.
+- *Journal Reviewer*: TPAMI, GRSM, TIP, TII, TGRS, JAG, TCSVT, JSTARS, GRSL, RS, GSIS.
 
 # 💻 Internships
 - *2022.02 - 2023.02*, Shanghai AI Lab, Shanghai.
