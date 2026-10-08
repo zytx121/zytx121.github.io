@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.10*: 🎉 I'm selected into [the World's Top 2% Scientists 2026 List](https://topscinet.com/scientist_profile/Zhou,%20Yue/2001/?stype=single_year)
 - *2026.09*: 🎉 A collaborative paper on AI4Science benchmark is accepted by <b>NeurIPS 2026 (Spotlight)</b>
 - *2026.09*: 🎉 A collaborative paper on visual grounding is accepted by <b>IEEE TGRS</b>
 - *2026.09*: 🎉 One survey on remote sensing geo-foundation models is accepted by <b>The Photogrammetric Record</b>
