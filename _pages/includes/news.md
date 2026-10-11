@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.10*: 🎉 Congratulations to Master's student Jue Chen on winning the National Scholarship （国家奖学金）and  Shujun Zhao on receiving the Special Scholarship （特等奖学金）. 👍👍👍
+- *2026.10*: 🎉 Congratulations to Master's student Jue Chen on winning <b>the National Scholarship （国家奖学金）</b> and  Shujun Zhao on receiving <b>the Special Scholarship （特等奖学金）</b> 👍👍👍
 - *2026.10*: 🎉 I'm selected into [the World's Top 2% Scientists 2026 List](https://topscinet.com/scientist_profile/Zhou,%20Yue/2001/?stype=single_year)
 - *2026.09*: 🎉 A collaborative paper on AI4Science benchmark is accepted by <b>NeurIPS 2026 (Spotlight)</b>
 - *2026.09*: 🎉 A collaborative paper on visual grounding is accepted by <b>IEEE TGRS</b>
